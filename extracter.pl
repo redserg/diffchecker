@@ -24,4 +24,3 @@ sub read_file_inf{
 		}
 	}
 }
-system("date");
