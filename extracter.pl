@@ -1,8 +1,9 @@
 #!/usr/bin/perl
 
 
-print "$ARGV[0]";
+print "$ARGV[0]\n";
 open my $rf, "<" , "$ARGV[0]" or die("open error");
+%diffs;
 
 sub read_file_inf{
 	my ($file, $winpath, $task_id, $state)= @_;
