@@ -2,15 +2,15 @@
 use Data::Dumper;
 
 print "$ARGV[0]\n";
-my $diffsdir = $ARGV[0];
+my $diffsdir = $ARGV[0]; ################/
 my %db;
-&extract(\$diffsdir, \%db);
+&extract($diffsdir, \%db);
 print Dumper(\%db);
 
 print "$db{'startu.bat'}->{'path'}\n"; 			
 
 sub extract{
-	my ($diffdir, $db) = @_;
+	my ($diffsdir, $db) = @_;
 	open my $rf, "<" , "$diffsdir/diff.files" or return -1;########## 
 	while(<$rf>){
 		if(m/'(.+?)'\s(\w+)\s(\w+_\d+)$/){
@@ -26,21 +26,24 @@ sub extract{
 
 
 
-	#for(keys %names){
-	#	&read_file_inf("$diffsdir/$_",$names{$_}->{'winpath'},$task_id,$names{$_}->{'action'});
-	#}
+	for(keys %$db){
+		&read_file_inf($diffsdir,$db,$_);
+	}
 }
 		
 sub read_file_inf{
-	my ($file, $winpath, $task_id, $state)= @_;
+	my ($diffsdir,$db,$winpath)= @_;
 	my $size;
 	my $type;
+	my $file="$diffsdir/$db{$winpath}->{'path'}";
 	if(-f $file){
 		$size = -s $file;
 		$type = `file -b '$file'`;
 		chop $type;
 		($type)=$type=~/^(.{0,512})/;
-		print "'$winpath','$task_id','$file',$size,'$type','$state'\n\n";
+		$db{$winpath}->{'type'}= $type;
+		$db{$winpath}->{'size'}= $size;
+		
 	}
 	if(-d $file){
 		my $len=length "$file/";
