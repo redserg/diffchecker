@@ -1,0 +1,163 @@
+(Mon Oct 17 17:12:06 2011.537625) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537625) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537625) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537625) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537625) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537625) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537625) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537625) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537625) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:12:06 2011.537640) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537640) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537640) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537640) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537640) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537640) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537640) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537640) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537640) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537640) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537640) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537656) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537656) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537656) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537656) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537656) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537656) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537656) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537656) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537656) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537656) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537656) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537656) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537656) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537656) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537671) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537671) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537671) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:12:06 2011.537734) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537734) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537734) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537734) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537734) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537734) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537734) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:12:06 2011.537859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537859) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537859) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:12:06 2011.537875) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537875) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537875) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537875) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:12:06 2011.537984) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:06 2011.537984) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:06 2011.537984) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:06 2011.537984) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:12:07 2011.538859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:07 2011.538859) : Failed to log an event: 6B5
+(Mon Oct 17 17:12:07 2011.538859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:12:07 2011.538859) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:12:44 2011.17906) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:44 2011.17937) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:44 2011.17937) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:44 2011.17937) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:12:48 2011.21875) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44750) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44750) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44750) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44750) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44750) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44750) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44750) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44750) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44750) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44750) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:13:11 2011.44765) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44765) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44765) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44765) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44765) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44765) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44765) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44765) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44765) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44765) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44765) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44765) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44765) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44765) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44765) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44765) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44765) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44765) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44765) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:13:11 2011.44859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44859) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44859) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44859) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44859) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44859) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44859) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44859) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44859) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44859) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.44859) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.44859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44859) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.44859) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:13:11 2011.45000) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.45000) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.45000) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.45000) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:13:11 2011.45000) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:11 2011.45000) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:11 2011.45000) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:11 2011.45000) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:13:12 2011.45968) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:12 2011.45968) : Failed to log an event: 6B5
+(Mon Oct 17 17:13:12 2011.45968) : Dropping event destined for event consumer NTEventLogEventConsumer="SCM Event Log Consumer" in namespace //./root/subscription
+(Mon Oct 17 17:13:12 2011.45968) : Failed to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 0x80041001. Dropping event.
+(Mon Oct 17 17:13:48 2011.18656) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:49 2011.18671) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:49 2011.18671) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:49 2011.18671) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:13:51 2011.21171) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Oct 17 17:14:31 2011.61031) : Unable to register event source 'Service Control Manager' on server ''. Error code: 6B5
+(Mon Oct 17 17:14:31 2011.61046) : Event consumer provider is unable to instantiate event consumer NTEventLogEventConsumer="SCM Event Log Consumer": error code 0x80041001
+(Mon Oct 17 17:14:31 2011.61046) : Failed the first attempt to retrieve the sink to deliver an event to event consumer NTEventLogEventConsumer="SCM Event Log Consumer" with error code 80041001.
+WMI will reload and retry.
+(Fri Feb 10 17:44:49 2012.19046) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Fri Feb 10 17:44:49 2012.19078) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Fri Feb 10 17:44:49 2012.19078) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Fri Feb 10 17:44:49 2012.19078) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Fri Feb 10 17:44:52 2012.22093) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Mon Mar 05 17:44:52 2012.85578) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 21:59:45 2012.24015) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 21:59:45 2012.24046) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 21:59:45 2012.24046) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 21:59:45 2012.24187) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 21:59:45 2012.24500) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 22:29:50 2012.21562) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 22:29:50 2012.21562) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 22:29:50 2012.21562) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 22:29:50 2012.21640) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 22:29:51 2012.21750) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 22:59:59 2012.22015) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 22:59:59 2012.22031) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 22:59:59 2012.22031) : NT Event Log Consumer: could not retrieve sid, 0x80041002
+(Wed Mar 14 22:59:59 2012.22031) : NT Event Log Consumer: could not retrieve sid, 0x80041002

@@ -1,0 +1,107 @@
+'000017361.exe' extra new_0000
+'Documents and Settings/Babs/Application Data/Babs3SQLite3.dll' extra new_0001
+'Documents and Settings/Babs/Application Data/Babslog.dat' extra new_0002
+'Documents and Settings/Babs/Cookies/babs@server[1].txt' extra new_0003
+'Documents and Settings/Babs/Cookies/index.dat' changed change_0004
+'Documents and Settings/Babs/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat' changed change_0005
+'Documents and Settings/Babs/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat.LOG' changed change_0006
+'Documents and Settings/Babs/Local Settings/Temp/3051_appcompat.txt' extra new_0007
+'Documents and Settings/Babs/Local Settings/Temp/30f4_appcompat.txt' extra new_0008
+'Documents and Settings/Babs/Local Settings/Temp/327b_appcompat.txt' extra new_0009
+'Documents and Settings/Babs/Local Settings/Temp/345c_appcompat.txt' extra new_0010
+'Documents and Settings/Babs/Local Settings/Temp/34c4_appcompat.txt' extra new_0011
+'Documents and Settings/Babs/Local Settings/Temp/3648_appcompat.txt' extra new_0012
+'Documents and Settings/Babs/Local Settings/Temp/3670_appcompat.txt' extra new_0013
+'Documents and Settings/Babs/Local Settings/Temp/377B.dmp' extra new_0014
+'Documents and Settings/Babs/Local Settings/Temp/37E8.dmp' extra new_0015
+'Documents and Settings/Babs/Local Settings/Temp/3855.dmp' extra new_0016
+'Documents and Settings/Babs/Local Settings/Temp/38B3.dmp' extra new_0017
+'Documents and Settings/Babs/Local Settings/Temp/38C3.dmp' extra new_0018
+'Documents and Settings/Babs/Local Settings/Temp/3921.dmp' extra new_0019
+'Documents and Settings/Babs/Local Settings/Temp/3940.dmp' extra new_0020
+'Documents and Settings/Babs/Local Settings/Temp/398E.dmp' extra new_0021
+'Documents and Settings/Babs/Local Settings/Temp/3f6b_appcompat.txt' extra new_0022
+'Documents and Settings/Babs/Local Settings/Temp/58171.tmp' extra new_0023
+'Documents and Settings/Babs/Local Settings/Temp/Babs7' extra new_0024
+'Documents and Settings/Babs/Local Settings/Temp/Babs8' extra new_0025
+'Documents and Settings/Babs/Local Settings/Temporary Internet Files/Content.IE5/85YB8X2Z/sqlite3[1].htm' extra new_0026
+'Documents and Settings/Babs/Local Settings/Temporary Internet Files/Content.IE5/index.dat' changed change_0027
+'Documents and Settings/Babs/NTUSER.DAT' changed change_0028
+'Documents and Settings/Babs/ntuser.dat.LOG' changed change_0029
+'Documents and Settings/LocalService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat' changed change_0030
+'Documents and Settings/LocalService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat.LOG' changed change_0031
+'Documents and Settings/LocalService/NTUSER.DAT' changed change_0032
+'Documents and Settings/LocalService/ntuser.dat.LOG' changed change_0033
+'Documents and Settings/NetworkService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat' changed change_0034
+'Documents and Settings/NetworkService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat.LOG' changed change_0035
+'Documents and Settings/NetworkService/NTUSER.DAT' changed change_0036
+'Documents and Settings/NetworkService/ntuser.dat.LOG' changed change_0037
+'System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP18' extra new_0038
+'System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/_driver.cfg' changed change_0039
+'System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/fifo.log' extra new_0040
+'WINDOWS/Debug/UserMode/userenv.log' changed change_0041
+'WINDOWS/Prefetch/000017361.EXE-321B2F6F.pf' extra new_0042
+'WINDOWS/Prefetch/DEFRAG.EXE-273F131E.pf' extra new_0043
+'WINDOWS/Prefetch/DFRGNTFS.EXE-269967DF.pf' extra new_0044
+'WINDOWS/Prefetch/EXPLORER.EXE-2109C3BD.pf' extra new_0045
+'WINDOWS/Prefetch/HELPSVC.EXE-2878DDA2.pf' changed change_0046
+'WINDOWS/Prefetch/IEXPLORE.EXE-27122324.pf' changed change_0047
+'WINDOWS/Prefetch/LOGON.SCR-151EFAEA.pf' extra new_0048
+'WINDOWS/Prefetch/Layout.ini' extra new_0049
+'WINDOWS/Prefetch/NTOSBOOT-B00DFAAD.pf' changed change_0050
+'WINDOWS/Prefetch/WMIPRVSE.EXE-28F301A9.pf' changed change_0051
+'WINDOWS/Prefetch/WUAUCLT.EXE-399A8E72.pf' changed change_0052
+'WINDOWS/SchedLgU.Txt' changed change_0053
+'WINDOWS/SoftwareDistribution/DataStore/DataStore.edb' changed change_0054
+'WINDOWS/SoftwareDistribution/DataStore/Logs/edb.chk' changed change_0055
+'WINDOWS/SoftwareDistribution/DataStore/Logs/edb.log' changed change_0056
+'WINDOWS/Tasks/SA.DAT' changed change_0057
+'WINDOWS/WindowsUpdate.log' changed change_0058
+'WINDOWS/bootstat.dat' changed change_0059
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_1.xml' extra new_0060
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_10.xml' extra new_0061
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_11.xml' extra new_0062
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_12.xml' extra new_0063
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_13.xml' extra new_0064
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_14.xml' extra new_0065
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_15.xml' extra new_0066
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_2.xml' extra new_0067
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_3.xml' extra new_0068
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_4.xml' extra new_0069
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_5.xml' extra new_0070
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_6.xml' extra new_0071
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_7.xml' extra new_0072
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_8.xml' extra new_0073
+'WINDOWS/pchealth/helpctr/DataColl/CollectedData_9.xml' extra new_0074
+'WINDOWS/pchealth/helpctr/DataColl/history_db.xml' extra new_0075
+'WINDOWS/setupapi.log' changed change_0076
+'WINDOWS/system32/CatRoot2/dberr.txt' changed change_0077
+'WINDOWS/system32/CatRoot2/edb.chk' changed change_0078
+'WINDOWS/system32/CatRoot2/edb.log' changed change_0079
+'WINDOWS/system32/CatRoot2/tmp.edb' changed change_0080
+'WINDOWS/system32/CatRoot2/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/catdb' changed change_0081
+'WINDOWS/system32/appdata' extra new_0082
+'WINDOWS/system32/config/AppEvent.Evt' changed change_0083
+'WINDOWS/system32/config/SAM' changed change_0084
+'WINDOWS/system32/config/SAM.LOG' changed change_0085
+'WINDOWS/system32/config/SECURITY' changed change_0086
+'WINDOWS/system32/config/SECURITY.LOG' changed change_0087
+'WINDOWS/system32/config/SysEvent.Evt' changed change_0088
+'WINDOWS/system32/config/default' changed change_0089
+'WINDOWS/system32/config/default.LOG' changed change_0090
+'WINDOWS/system32/config/software' changed change_0091
+'WINDOWS/system32/config/software.LOG' changed change_0092
+'WINDOWS/system32/config/system' changed change_0093
+'WINDOWS/system32/config/system.LOG' changed change_0094
+'WINDOWS/system32/wbem/Logs/wbemess.log' changed change_0095
+'WINDOWS/system32/wbem/Logs/wmiprov.log' changed change_0096
+'WINDOWS/system32/wbem/Repository/FS/INDEX.BTR' changed change_0097
+'WINDOWS/system32/wbem/Repository/FS/INDEX.MAP' changed change_0098
+'WINDOWS/system32/wbem/Repository/FS/MAPPING.VER' changed change_0099
+'WINDOWS/system32/wbem/Repository/FS/MAPPING1.MAP' changed change_0100
+'WINDOWS/system32/wbem/Repository/FS/MAPPING2.MAP' changed change_0101
+'WINDOWS/system32/wbem/Repository/FS/OBJECTS.DATA' changed change_0102
+'WINDOWS/system32/wbem/Repository/FS/OBJECTS.MAP' changed change_0103
+'WINDOWS/system32/wpa.dbl' changed change_0104
+'pagefile.sys' changed change_0105
+'startu.bat' extra new_0106

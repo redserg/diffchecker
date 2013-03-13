@@ -1,0 +1,1389 @@
+000017361.exe extra
+Documents and Settings/Babs/Application Data/Babs3SQLite3.dll extra
+Documents and Settings/Babs/Application Data/Babslog.dat extra
+Documents and Settings/Babs/Cookies/babs@server[1].txt extra
+Documents and Settings/Babs/Cookies/index.dat changed
+	cksum expected 4061291696 found 4035912939
+Documents and Settings/Babs/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat changed
+	cksum expected 4017602264 found 2773787696
+Documents and Settings/Babs/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat.LOG changed
+	cksum expected 2614210296 found 3181199902
+Documents and Settings/Babs/Local Settings/Temp/3051_appcompat.txt extra
+Documents and Settings/Babs/Local Settings/Temp/30f4_appcompat.txt extra
+Documents and Settings/Babs/Local Settings/Temp/327b_appcompat.txt extra
+Documents and Settings/Babs/Local Settings/Temp/345c_appcompat.txt extra
+Documents and Settings/Babs/Local Settings/Temp/34c4_appcompat.txt extra
+Documents and Settings/Babs/Local Settings/Temp/3648_appcompat.txt extra
+Documents and Settings/Babs/Local Settings/Temp/3670_appcompat.txt extra
+Documents and Settings/Babs/Local Settings/Temp/377B.dmp extra
+Documents and Settings/Babs/Local Settings/Temp/37E8.dmp extra
+Documents and Settings/Babs/Local Settings/Temp/3855.dmp extra
+Documents and Settings/Babs/Local Settings/Temp/38B3.dmp extra
+Documents and Settings/Babs/Local Settings/Temp/38C3.dmp extra
+Documents and Settings/Babs/Local Settings/Temp/3921.dmp extra
+Documents and Settings/Babs/Local Settings/Temp/3940.dmp extra
+Documents and Settings/Babs/Local Settings/Temp/398E.dmp extra
+Documents and Settings/Babs/Local Settings/Temp/3f6b_appcompat.txt extra
+Documents and Settings/Babs/Local Settings/Temp/58171.tmp extra
+Documents and Settings/Babs/Local Settings/Temp/Babs7 extra
+Documents and Settings/Babs/Local Settings/Temp/Babs8 extra
+Documents and Settings/Babs/Local Settings/Temporary Internet Files/Content.IE5/85YB8X2Z/sqlite3[1].htm extra
+Documents and Settings/Babs/Local Settings/Temporary Internet Files/Content.IE5/index.dat changed
+	cksum expected 4018661201 found 1891879178
+Documents and Settings/Babs/NTUSER.DAT changed
+	cksum expected 3984551109 found 3201524970
+Documents and Settings/Babs/ntuser.dat.LOG changed
+	cksum expected 1560256891 found 2749549954
+Documents and Settings/LocalService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat changed
+	cksum expected 2771225434 found 466067209
+Documents and Settings/LocalService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat.LOG changed
+	cksum expected 3998363215 found 3823576973
+Documents and Settings/LocalService/NTUSER.DAT changed
+	cksum expected 3072135074 found 721945425
+Documents and Settings/LocalService/ntuser.dat.LOG changed
+	cksum expected 1538162437 found 4074314408
+Documents and Settings/NetworkService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat changed
+	cksum expected 2649047730 found 1054524230
+Documents and Settings/NetworkService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat.LOG changed
+	cksum expected 164194441 found 3436285398
+Documents and Settings/NetworkService/NTUSER.DAT changed
+	cksum expected 2009255397 found 4193149383
+Documents and Settings/NetworkService/ntuser.dat.LOG changed
+	cksum expected 277691360 found 3761310895
+System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP18 extra
+System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/_driver.cfg changed
+	cksum expected 4293908208 found 1303495358
+System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/fifo.log extra
+WINDOWS/Debug/UserMode/userenv.log changed
+	size expected 28336 found 31468
+	cksum expected 519907055 found 4146500128
+WINDOWS/Prefetch/000017361.EXE-321B2F6F.pf extra
+WINDOWS/Prefetch/DEFRAG.EXE-273F131E.pf extra
+WINDOWS/Prefetch/DFRGNTFS.EXE-269967DF.pf extra
+WINDOWS/Prefetch/EXPLORER.EXE-2109C3BD.pf extra
+WINDOWS/Prefetch/HELPSVC.EXE-2878DDA2.pf changed
+	size expected 41234 found 43248
+	cksum expected 1783595255 found 812666858
+WINDOWS/Prefetch/IEXPLORE.EXE-27122324.pf changed
+	size expected 109102 found 108996
+	cksum expected 885443336 found 1043527645
+WINDOWS/Prefetch/LOGON.SCR-151EFAEA.pf extra
+WINDOWS/Prefetch/Layout.ini extra
+WINDOWS/Prefetch/NTOSBOOT-B00DFAAD.pf changed
+	size expected 733254 found 754688
+	cksum expected 2286248358 found 3260285944
+WINDOWS/Prefetch/WMIPRVSE.EXE-28F301A9.pf changed
+	size expected 26486 found 38490
+	cksum expected 1064278102 found 2353576045
+WINDOWS/Prefetch/WUAUCLT.EXE-399A8E72.pf changed
+	size expected 36442 found 36154
+	cksum expected 4014705540 found 4153151973
+WINDOWS/SchedLgU.Txt changed
+	size expected 6460 found 6844
+	cksum expected 985872492 found 3423868147
+WINDOWS/SoftwareDistribution/DataStore/DataStore.edb changed
+	cksum expected 1586908679 found 569264308
+WINDOWS/SoftwareDistribution/DataStore/Logs/edb.chk changed
+	cksum expected 2976175612 found 1130444092
+WINDOWS/SoftwareDistribution/DataStore/Logs/edb.log changed
+	cksum expected 922473031 found 2108882394
+WINDOWS/Tasks/SA.DAT changed
+	cksum expected 3775404189 found 856807745
+WINDOWS/WindowsUpdate.log changed
+	size expected 55651 found 60454
+	cksum expected 1438015049 found 3049543407
+WINDOWS/bootstat.dat changed
+	cksum expected 2254521854 found 2001407389
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_1.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_10.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_11.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_12.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_13.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_14.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_15.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_2.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_3.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_4.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_5.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_6.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_7.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_8.xml extra
+WINDOWS/pchealth/helpctr/DataColl/CollectedData_9.xml extra
+WINDOWS/pchealth/helpctr/DataColl/history_db.xml extra
+WINDOWS/setupapi.log changed
+	size expected 333140 found 338404
+	cksum expected 7470167 found 331290056
+WINDOWS/system32/CatRoot2/dberr.txt changed
+	size expected 3675 found 4003
+	cksum expected 930454747 found 3124464348
+WINDOWS/system32/CatRoot2/edb.chk changed
+	cksum expected 3685201025 found 2905354066
+WINDOWS/system32/CatRoot2/edb.log changed
+	cksum expected 2819487706 found 848181977
+WINDOWS/system32/CatRoot2/tmp.edb changed
+	cksum expected 918174019 found 1179179433
+WINDOWS/system32/CatRoot2/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/catdb changed
+	cksum expected 3371483862 found 2323598403
+WINDOWS/system32/appdata extra
+WINDOWS/system32/config/AppEvent.Evt changed
+	cksum expected 350215272 found 2967558194
+WINDOWS/system32/config/SAM changed
+	cksum expected 2417579246 found 599982170
+WINDOWS/system32/config/SAM.LOG changed
+	cksum expected 2302592717 found 2150148766
+WINDOWS/system32/config/SECURITY changed
+	cksum expected 1188952709 found 1572120022
+WINDOWS/system32/config/SECURITY.LOG changed
+	cksum expected 270231256 found 796403974
+WINDOWS/system32/config/SysEvent.Evt changed
+	cksum expected 3524338097 found 3201787048
+WINDOWS/system32/config/default changed
+	cksum expected 516052006 found 1936148377
+WINDOWS/system32/config/default.LOG changed
+	cksum expected 2181159255 found 30688164
+WINDOWS/system32/config/software changed
+	cksum expected 3397203892 found 612673879
+WINDOWS/system32/config/software.LOG changed
+	cksum expected 3072054738 found 1530947024
+WINDOWS/system32/config/system changed
+	cksum expected 1778125021 found 3134447204
+WINDOWS/system32/config/system.LOG changed
+	cksum expected 2391510910 found 782688937
+WINDOWS/system32/wbem/Logs/wbemess.log changed
+	size expected 17037 found 18353
+	cksum expected 2511062844 found 1806593126
+WINDOWS/system32/wbem/Logs/wmiprov.log changed
+	size expected 1867 found 2068
+	cksum expected 2591197112 found 4049012431
+WINDOWS/system32/wbem/Repository/FS/INDEX.BTR changed
+	cksum expected 102249652 found 1339057146
+WINDOWS/system32/wbem/Repository/FS/INDEX.MAP changed
+	cksum expected 3759498317 found 1686009026
+WINDOWS/system32/wbem/Repository/FS/MAPPING.VER changed
+	cksum expected 2128692793 found 2784423598
+WINDOWS/system32/wbem/Repository/FS/MAPPING1.MAP changed
+	cksum expected 124844303 found 222779795
+WINDOWS/system32/wbem/Repository/FS/MAPPING2.MAP changed
+	cksum expected 1253686936 found 3141845430
+WINDOWS/system32/wbem/Repository/FS/OBJECTS.DATA changed
+	cksum expected 1303921887 found 4115830043
+WINDOWS/system32/wbem/Repository/FS/OBJECTS.MAP changed
+	cksum expected 1032532798 found 1850424225
+WINDOWS/system32/wpa.dbl changed
+	cksum expected 628724385 found 820402655
+pagefile.sys changed
+	cksum expected 1855743786 found 3582527129
+startu.bat extra
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/A0000001.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/A0000002.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/A0000003.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/A0000004.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/A0000005.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/A0000006.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/A0000007.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/A0000008.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/A0000009.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP0/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000010.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000011.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000012.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000013.hhk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000014.hhk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000015.hhk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000016.hhk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000017.hhk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000018.hhk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000019.hhk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000020.hhk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000021.hhk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000022.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000023.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000024.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000025.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/A0000026.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP1/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/A0000177.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/A0000178.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/A0000179.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP10/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000180.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000181.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000182.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000183.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000184.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000185.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000186.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000187.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000188.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000189.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000190.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/A0000191.msi missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP11/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000192.msi missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000193.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000194.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000195.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000196.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000197.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000198.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000199.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000200.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000201.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000202.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000203.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000204.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/A0000205.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP12/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0000206.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0000207.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0000208.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0000209.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001198.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001199.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001200.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001201.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001202.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001203.LNK missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001204.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001205.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001206.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001207.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001208.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001209.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001210.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001211.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001212.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001213.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001214.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001215.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001216.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001217.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001218.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001219.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001220.cat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001221.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001222.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001223.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001224.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001225.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001226.cat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001227.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001228.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001229.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001230.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001231.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001232.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001233.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001234.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001235.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001236.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001237.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001238.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001239.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001240.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001241.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001242.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001243.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001244.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001245.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001246.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001247.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001248.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001249.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001250.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001251.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001252.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001253.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001254.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001255.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001256.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001257.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001258.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001259.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001260.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001261.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001262.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001263.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001264.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001265.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001266.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001267.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001268.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001269.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001270.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001271.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001272.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001273.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001274.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001275.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001276.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001277.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001278.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001279.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001280.bat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001281.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001282.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001283.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/A0001284.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/change.log.3 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/change.log.4 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/change.log.5 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/change.log.6 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/change.log.7 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP13/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001285.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001286.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001287.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001288.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001289.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001290.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001291.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001292.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001293.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001294.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001295.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001296.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001297.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001298.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001299.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001300.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001301.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001302.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001303.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001304.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001305.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001306.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001307.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001308.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001309.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001310.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001311.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001312.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001313.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001314.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001315.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001316.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001317.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001318.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001319.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001320.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001321.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001322.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001323.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001324.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001325.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001326.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001327.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001328.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001329.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001330.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001331.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001332.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001333.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001334.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001335.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001336.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/A0001337.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/change.log.3 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/change.log.4 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/change.log.5 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP14/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001338.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001339.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001340.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001341.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001342.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001343.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001344.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001345.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001346.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001347.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001348.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001349.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001350.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001351.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001352.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001353.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001354.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001355.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001356.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001357.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001358.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001359.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001360.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001361.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001362.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001363.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001364.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001365.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001366.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001367.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001368.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001369.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001370.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001371.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001372.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001373.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001374.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001375.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001376.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001377.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001378.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001379.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001380.scr missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001381.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001382.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001383.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001384.manifest missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001385.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001386.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001387.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001388.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001389.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001390.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001391.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001392.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001393.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001394.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001395.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001396.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001397.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001398.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001399.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001400.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001401.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001402.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001403.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001404.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001405.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001406.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001407.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001408.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001409.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001410.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001411.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001412.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001413.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001414.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001415.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001416.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001417.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001418.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001419.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001420.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001421.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001422.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001423.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001424.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001425.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001426.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001427.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001428.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001429.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001430.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001431.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001432.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001433.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001434.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001435.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001436.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001437.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001438.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001439.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001440.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001441.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001442.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001443.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001444.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001445.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001446.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001447.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001448.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001449.ver missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001450.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001451.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001452.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001453.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001454.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001455.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001456.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001457.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001458.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001459.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001460.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001461.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001462.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001463.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001464.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001465.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001466.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001467.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001468.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001469.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001470.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001471.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001472.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001473.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001474.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001475.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001476.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001477.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001478.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001479.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001480.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001481.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001482.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001483.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001484.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001485.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001486.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001487.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001488.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001489.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001490.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001491.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001492.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001493.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001494.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001495.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001496.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001497.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001498.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001499.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001500.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001501.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001502.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/A0001503.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/change.log.3 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/change.log.4 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP15/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001504.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001505.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001506.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001507.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001508.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001509.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001510.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001511.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001512.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001513.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001514.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001515.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001516.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001517.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001518.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001519.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001520.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001521.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001522.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001523.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001524.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001525.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001526.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001527.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001528.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001529.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001530.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001531.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001532.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001533.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001534.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001535.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001536.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001537.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001538.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001539.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001540.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001541.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001542.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001543.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001544.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0001545.rbf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002501.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002502.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002503.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002504.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002505.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002506.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002507.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002508.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002509.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002510.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002511.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002512.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002513.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002514.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002515.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/A0002516.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/change.log.3 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/change.log.4 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP16/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002517.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002518.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002519.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002520.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002521.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002522.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002523.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002524.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002525.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002526.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002527.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002528.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002529.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002530.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002531.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002532.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002533.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002534.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002535.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002536.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002537.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002538.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002539.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002540.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002541.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002542.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002543.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002544.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002545.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002546.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002547.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002548.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002549.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002550.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002551.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002552.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002553.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002554.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002555.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002556.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002557.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002558.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002559.scr missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002560.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002561.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002562.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002563.manifest missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002564.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002565.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002566.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002567.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002568.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002569.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002570.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002571.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002572.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002573.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002574.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002575.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002576.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002577.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002578.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002579.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002580.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002581.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002582.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002583.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002584.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002585.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002586.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002587.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002588.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002589.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002590.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002591.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002592.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002593.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002594.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002595.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002596.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002597.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002598.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002599.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002600.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002601.properties missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002602.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002603.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002604.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002605.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002606.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002607.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002608.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002609.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002610.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002611.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002612.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002613.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002614.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002615.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002616.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002617.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002618.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002619.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002620.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002621.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002622.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002623.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002624.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002625.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002626.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002627.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002628.ver missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002629.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002630.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002631.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002632.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002633.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002634.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002635.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002636.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002637.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002638.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002639.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002640.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002641.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002642.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002643.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002644.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002645.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002646.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002647.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002648.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002649.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002650.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002651.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002652.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002653.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002654.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002655.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002656.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002657.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002658.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002659.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002660.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002661.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002662.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002663.vpx missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002664.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002665.lnk missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002666.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002667.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002668.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002669.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002670.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002671.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002672.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002673.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002674.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002675.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002676.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002677.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002678.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002679.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002680.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002681.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002682.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002683.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002684.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002685.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002686.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002687.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002688.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002689.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002690.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002691.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/A0002692.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/change.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/change.log.3 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP17/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP2/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP2/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP2/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000027.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000028.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000029.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000030.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000031.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000032.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000033.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000034.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000035.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000036.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000037.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000038.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000039.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000040.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000041.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000042.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000043.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000044.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000045.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000046.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000047.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000048.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000049.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000050.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000051.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000052.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000053.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000054.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000055.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000056.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000057.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000058.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000059.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000060.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000061.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000062.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000063.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000064.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000065.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000066.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000067.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000068.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000069.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000070.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/A0000071.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP3/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP4 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP4/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP4/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP4/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP4/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP5/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000072.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000073.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000074.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000075.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000076.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000077.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000078.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000079.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000080.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000081.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000082.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000083.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000084.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000085.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000086.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000087.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000088.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000089.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000090.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000091.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000092.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000093.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000094.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000095.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000096.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000097.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000098.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000099.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000100.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000101.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000102.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000103.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000104.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000105.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000106.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000107.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000108.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000109.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000110.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000111.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000112.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000113.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000114.CAT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000115.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000116.ver missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000117.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000118.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000119.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000120.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000121.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000122.cat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000123.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000124.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000125.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000126.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000127.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000128.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000129.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000130.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000131.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000132.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000133.cat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/A0000134.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP6/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000135.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000136.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000137.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000138.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000139.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000140.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000141.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000142.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000143.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000144.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000145.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000146.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/A0000147.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP7/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP8 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP8/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP8/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP8/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000148.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000149.EXE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000150.INI missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000151.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000152.DLL missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000153.DLL missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000154.DLL missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000155.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000156.msi missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000157.exe missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000158.dll missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000159.EXE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000160.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000161.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000162.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000163.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000164.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000165.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000166.ini missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000167.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000168.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000169.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000170.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000171.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000172.cat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000173.inf missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000174.cat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000175.sys missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/A0000176.PNF missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/RestorePointSize missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/change.log.1 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/change.log.2 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/drivetable.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/rp.log missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-790525478-796845957-725345543-1003 missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/domain.txt missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository/FS missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{DAC6281C-6856-41C6-BFCC-C58BE660610F}/RP9/snapshot/Repository/FS/OBJECTS.MAP missing
+./WINDOWS/LastGood missing
+./WINDOWS/LastGood/INF missing
+./WINDOWS/LastGood/INF/oem7.PNF missing
+./WINDOWS/LastGood/INF/oem7.inf missing
+./WINDOWS/LastGood/INF/oem8.PNF missing
+./WINDOWS/LastGood/INF/oem8.inf missing

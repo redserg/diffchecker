@@ -1,0 +1,28 @@
+(Mon Mar 21 14:13:55 2011.586468) : WDM call returned error: 4200
+(Mon Mar 21 14:20:49 2011.36406) : WDM call returned error: 4200
+(Mon Mar 21 14:21:06 2011.53265) : Received Event
+(Mon Mar 21 14:45:12 2011.250500) : WDM call returned error: 4200
+(Mon Mar 21 14:50:58 2011.252843) : WDM call returned error: 4200
+(Mon Mar 21 14:54:13 2011.97031) : WDM call returned error: 4200
+(Mon Mar 21 14:54:13 2011.97062) : ***************************************
+(Mon Mar 21 14:54:13 2011.97062) : Could not get pointer to binary resource for file:
+(Mon Mar 21 14:54:13 2011.97062) : C:\WINDOWS\system32\DRIVERS\dtsoftbus01.sys[DTSoftBusWMI](Mon Mar 21 14:54:13 2011.97062) : 
+(Mon Mar 21 14:54:13 2011.97062) : ***************************************
+(Mon Mar 21 15:07:03 2011.253296) : WDM call returned error: 4200
+(Mon Mar 21 15:07:03 2011.253312) : ***************************************
+(Mon Mar 21 15:07:03 2011.253312) : Could not get pointer to binary resource for file:
+(Mon Mar 21 15:07:03 2011.253312) : C:\WINDOWS\system32\DRIVERS\dtsoftbus01.sys[DTSoftBusWMI](Mon Mar 21 15:07:03 2011.253312) : 
+(Mon Mar 21 15:07:03 2011.253312) : ***************************************
+(Mon Mar 21 15:13:03 2011.613437) : Impersonation failed - Access denied
+(Mon Aug 01 21:47:24 2011.80718) : WDM call returned error: 4200
+(Mon Aug 01 21:50:16 2011.253343) : WDM call returned error: 4200
+(Tue Sep 27 12:57:15 2011.264921) : WDM call returned error: 4200
+(Tue Sep 27 13:17:21 2011.264015) : WDM call returned error: 4200
+(Tue Sep 27 13:25:12 2011.266484) : WDM call returned error: 4200
+(Mon Oct 17 16:33:25 2011.258453) : WDM call returned error: 4200
+(Mon Oct 17 16:57:56 2011.740171) : WDM call returned error: 4200
+(Mon Mar 05 17:44:49 2012.83125) : WDM call returned error: 4200
+(Mon Mar 05 17:47:41 2012.254406) : WDM call returned error: 4200
+(Wed Mar 14 22:03:44 2012.263484) : WDM call returned error: 4200
+(Wed Mar 14 22:33:47 2012.257984) : WDM call returned error: 4200
+(Wed Mar 14 23:03:55 2012.258203) : WDM call returned error: 4200

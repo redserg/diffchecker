@@ -1,0 +1,776 @@
+2011-03-21	14:15:50+0300	 280	594	CreateService for wuauserv succeeded
+2011-03-21	14:20:45+0300	 760	4f8	Service Main starts
+2011-03-21	14:20:46+0300	 760	4f8	Using BatchFlushAge = 29407.
+2011-03-21	14:20:46+0300	 760	4f8	Using SamplingValue = 265.
+2011-03-21	14:20:46+0300	 760	4f8	Successfully loaded event namespace dictionary.
+2011-03-21	14:20:46+0300	 760	4f8	Successfully loaded client event namespace descriptor.
+2011-03-21	14:20:47+0300	 760	4f8	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-03-21	14:20:47+0300	 760	4f8	Successfully initialized NT event logger.
+2011-03-21	14:20:47+0300	 760	4f8	Successfully initialized event uploader 0.
+2011-03-21	14:20:47+0300	 760	4f8	Successfully initialized event uploader 1.
+2011-03-21	14:20:48+0300	 760	4f8	WU client with version 5.4.3790.2180 successfully initialized
+2011-03-21	14:20:48+0300	 760	4f8	Service status is now SERVICE_RUNNING
+2011-03-21	14:21:33+0300	 760	4f8	start delayed initialization of WU client
+2011-03-21	14:21:33+0300	 176	 b4	Trying to make out of proc datastore active
+2011-03-21	14:21:36+0300	 176	 b4	Service 3DA21691-E39D-4DA6-8A4B-B43877BCB1B7 added
+2011-03-21	14:21:36+0300	 176	 b4	Service 9482F4B4-E343-43B6-B170-9A65BC822C77 added
+2011-03-21	14:21:36+0300	 176	 b4	Data store successfully created
+2011-03-21	14:21:36+0300	 176	 b4	Out of proc datastore is now active
+2011-03-21	14:21:36+0300	 760	4f8	Client Call Recorder finished delayed initialization
+2011-03-21	14:21:36+0300	 760	4f8	AU is not configured yet, generating timeout to launch setup wizard
+2011-03-21	14:21:36+0300	 760	4f8	AU finished delayed initialization
+2011-03-21	14:21:38+0300	 760	2fc	Service received connect notification
+2011-03-21	14:21:38+0300	 760	4f8	AU received event of 3
+2011-03-21	14:21:39+0300	 760	2fc	Service received logon notification
+2011-03-21	14:21:39+0300	 760	4f8	AU received event of 3
+2011-03-21	14:23:00+0300	 760	448	Setting AU Approval Type to 1
+2011-03-21	14:23:00+0300	 760	448	AU Options changed through user preference.
+2011-03-21	14:23:00+0300	 760	448	AU Restart required....
+2011-03-21	14:23:00+0300	 760	4f8	AU received event of 1
+2011-03-21	14:23:00+0300	 760	4f8	AU is disabled, not initializing any handlers
+2011-03-21	14:24:14+0300	1696	718	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-03-21	14:24:29+0300	 760	2fc	Service received logoff notification
+2011-03-21	14:24:30+0300	 760	474	AU Restart required....
+2011-03-21	14:24:30+0300	 760	4f8	AU received event of 1
+2011-03-21	14:24:30+0300	 760	4f8	AU is disabled, not initializing any handlers
+2011-03-21	14:24:30+0300	 456	5cc	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-03-21	14:24:31+0300	 760	2fc	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-03-21	14:24:31+0300	 760	4f8	Exiting Service Main
+2011-03-21	14:24:31+0300	 176	 b4	Out of proc datastore is shutting down
+2011-03-21	14:24:31+0300	 760	4f8	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-03-21	14:24:32+0300	 176	 b4	Out of proc datastore is now inactive
+2011-03-21	14:37:20+0300	 780	480	Service Main starts
+2011-03-21	14:37:20+0300	 780	480	Using BatchFlushAge = 29407.
+2011-03-21	14:37:20+0300	 780	480	Using SamplingValue = 265.
+2011-03-21	14:37:20+0300	 780	480	Successfully loaded event namespace dictionary.
+2011-03-21	14:37:21+0300	 780	480	Successfully loaded client event namespace descriptor.
+2011-03-21	14:37:21+0300	 780	480	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-03-21	14:37:21+0300	 780	480	Successfully initialized NT event logger.
+2011-03-21	14:37:21+0300	 780	480	Successfully initialized event uploader 0.
+2011-03-21	14:37:21+0300	 780	480	Successfully initialized event uploader 1.
+2011-03-21	14:37:21+0300	 780	480	WU client with version 5.4.3790.2180 successfully initialized
+2011-03-21	14:37:21+0300	 780	480	Service status is now SERVICE_RUNNING
+2011-03-21	14:37:22+0300	 780	310	Service received connect notification
+2011-03-21	14:38:06+0300	 780	480	start delayed initialization of WU client
+2011-03-21	14:38:07+0300	 272	114	Trying to make out of proc datastore active
+2011-03-21	14:38:07+0300	 272	114	Out of proc datastore is now active
+2011-03-21	14:38:07+0300	 780	480	Client Call Recorder finished delayed initialization
+2011-03-21	14:38:07+0300	 780	480	AU is disabled, not initializing any handlers
+2011-03-21	14:38:07+0300	 780	480	AU finished delayed initialization
+2011-03-21	14:40:06+0300	 780	310	Service received logoff notification
+2011-03-21	14:40:07+0300	 780	5ac	AU Restart required....
+2011-03-21	14:40:07+0300	 780	480	AU received event of 1
+2011-03-21	14:40:07+0300	 780	480	AU is disabled, not initializing any handlers
+2011-03-21	14:40:07+0300	 456	754	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-03-21	14:40:09+0300	 780	310	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-03-21	14:40:09+0300	 780	480	Exiting Service Main
+2011-03-21	14:40:09+0300	 272	114	Out of proc datastore is shutting down
+2011-03-21	14:40:09+0300	 780	480	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-03-21	14:40:10+0300	 272	114	Out of proc datastore is now inactive
+2011-03-21	14:41:12+0300	 772	4d4	Service Main starts
+2011-03-21	14:41:12+0300	 772	4d4	Using BatchFlushAge = 29407.
+2011-03-21	14:41:12+0300	 772	4d4	Using SamplingValue = 265.
+2011-03-21	14:41:12+0300	 772	4d4	Successfully loaded event namespace dictionary.
+2011-03-21	14:41:12+0300	 772	4d4	Successfully loaded client event namespace descriptor.
+2011-03-21	14:41:12+0300	 772	4d4	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-03-21	14:41:12+0300	 772	4d4	Successfully initialized NT event logger.
+2011-03-21	14:41:12+0300	 772	4d4	Successfully initialized event uploader 0.
+2011-03-21	14:41:12+0300	 772	4d4	Successfully initialized event uploader 1.
+2011-03-21	14:41:12+0300	 772	4d4	WU client with version 5.4.3790.2180 successfully initialized
+2011-03-21	14:41:12+0300	 772	4d4	Service status is now SERVICE_RUNNING
+2011-03-21	14:41:12+0300	 772	308	Service received logon notification
+2011-03-21	14:41:13+0300	 772	308	Service received connect notification
+2011-03-21	14:41:57+0300	 772	4d4	start delayed initialization of WU client
+2011-03-21	14:41:57+0300	 220	 e0	Trying to make out of proc datastore active
+2011-03-21	14:41:58+0300	 220	 e0	Out of proc datastore is now active
+2011-03-21	14:41:58+0300	 772	4d4	Client Call Recorder finished delayed initialization
+2011-03-21	14:41:58+0300	 772	4d4	AU is disabled, not initializing any handlers
+2011-03-21	14:41:58+0300	 772	4d4	AU finished delayed initialization
+2011-03-21	14:46:01+0300	 772	308	Service received logoff notification
+2011-03-21	14:46:02+0300	 772	398	AU Restart required....
+2011-03-21	14:46:02+0300	 772	4d4	AU received event of 1
+2011-03-21	14:46:02+0300	 772	4d4	AU is disabled, not initializing any handlers
+2011-03-21	14:46:02+0300	 448	184	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-03-21	14:46:04+0300	 772	308	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-03-21	14:46:04+0300	 772	4d4	Exiting Service Main
+2011-03-21	14:46:04+0300	 220	 e0	Out of proc datastore is shutting down
+2011-03-21	14:46:04+0300	 772	4d4	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-03-21	14:46:05+0300	 220	 e0	Out of proc datastore is now inactive
+2011-03-21	14:47:05+0300	 968	5d0	Service Main starts
+2011-03-21	14:47:05+0300	 968	5d0	Using BatchFlushAge = 29407.
+2011-03-21	14:47:05+0300	 968	5d0	Using SamplingValue = 265.
+2011-03-21	14:47:05+0300	 968	5d0	Successfully loaded event namespace dictionary.
+2011-03-21	14:47:05+0300	 968	5d0	Successfully loaded client event namespace descriptor.
+2011-03-21	14:47:05+0300	 968	5d0	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-03-21	14:47:05+0300	 968	5d0	Successfully initialized NT event logger.
+2011-03-21	14:47:06+0300	 968	5d0	Successfully initialized event uploader 0.
+2011-03-21	14:47:06+0300	 968	5d0	Successfully initialized event uploader 1.
+2011-03-21	14:47:06+0300	 968	5d0	WU client with version 5.4.3790.2180 successfully initialized
+2011-03-21	14:47:06+0300	 968	5d0	Service status is now SERVICE_RUNNING
+2011-03-21	14:47:06+0300	 968	3cc	Service received connect notification
+2011-03-21	14:47:51+0300	 968	5d0	start delayed initialization of WU client
+2011-03-21	14:47:51+0300	1936	7b4	Trying to make out of proc datastore active
+2011-03-21	14:47:51+0300	1936	7b4	Out of proc datastore is now active
+2011-03-21	14:47:51+0300	 968	5d0	Client Call Recorder finished delayed initialization
+2011-03-21	14:47:51+0300	 968	5d0	AU is disabled, not initializing any handlers
+2011-03-21	14:47:51+0300	 968	5d0	AU finished delayed initialization
+2011-03-21	14:48:14+0300	 968	5d0	Cleared the proxy cache.
+2011-03-21	14:51:52+0300	1792	7a0	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-03-21	14:51:53+0300	 968	3cc	Service received logoff notification
+2011-03-21	14:51:55+0300	 968	4f8	AU Restart required....
+2011-03-21	14:51:55+0300	 968	5d0	AU received event of 1
+2011-03-21	14:51:55+0300	 968	5d0	AU is disabled, not initializing any handlers
+2011-03-21	14:51:55+0300	 640	6d8	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-03-21	14:51:56+0300	 968	3cc	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-03-21	14:51:56+0300	 968	5d0	Exiting Service Main
+2011-03-21	14:51:56+0300	1936	7b4	Out of proc datastore is shutting down
+2011-03-21	14:51:56+0300	 968	5d0	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-03-21	14:51:57+0300	1936	7b4	Out of proc datastore is now inactive
+2011-03-21	14:52:48+0300	 964	5e4	Service Main starts
+2011-03-21	14:52:48+0300	 964	5e4	Using BatchFlushAge = 29407.
+2011-03-21	14:52:48+0300	 964	5e4	Using SamplingValue = 265.
+2011-03-21	14:52:48+0300	 964	5e4	Successfully loaded event namespace dictionary.
+2011-03-21	14:52:48+0300	 964	5e4	Successfully loaded client event namespace descriptor.
+2011-03-21	14:52:48+0300	 964	5e4	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-03-21	14:52:48+0300	 964	5e4	Successfully initialized NT event logger.
+2011-03-21	14:52:48+0300	 964	5e4	Successfully initialized event uploader 0.
+2011-03-21	14:52:48+0300	 964	5e4	Successfully initialized event uploader 1.
+2011-03-21	14:52:48+0300	 964	5e4	WU client with version 5.4.3790.2180 successfully initialized
+2011-03-21	14:52:48+0300	 964	5e4	Service status is now SERVICE_RUNNING
+2011-03-21	14:52:49+0300	 964	3c8	Service received connect notification
+2011-03-21	14:53:33+0300	 964	5e4	start delayed initialization of WU client
+2011-03-21	14:53:34+0300	 820	330	Trying to make out of proc datastore active
+2011-03-21	14:53:34+0300	 820	330	Out of proc datastore is now active
+2011-03-21	14:53:34+0300	 964	5e4	Client Call Recorder finished delayed initialization
+2011-03-21	14:53:34+0300	 964	5e4	AU is disabled, not initializing any handlers
+2011-03-21	14:53:34+0300	 964	5e4	AU finished delayed initialization
+2011-03-21	14:58:34+0300	 820	330	Out of proc datastore is shutting down
+2011-03-21	14:58:35+0300	 820	330	Out of proc datastore is now inactive
+2011-03-21	15:01:59+0300	1860	770	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-03-21	15:02:01+0300	 964	3c8	Service received logoff notification
+2011-03-21	15:02:02+0300	 964	470	AU Restart required....
+2011-03-21	15:02:02+0300	 964	5e4	AU received event of 1
+2011-03-21	15:02:03+0300	 636	cf4	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-03-21	15:02:03+0300	 964	5e4	AU is disabled, not initializing any handlers
+2011-03-21	15:02:04+0300	 964	3c8	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-03-21	15:02:04+0300	 964	5e4	Exiting Service Main
+2011-03-21	15:02:05+0300	 964	5e4	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-03-21	15:03:02+0300	 988	5dc	Service Main starts
+2011-03-21	15:03:02+0300	 988	5dc	Using BatchFlushAge = 29407.
+2011-03-21	15:03:02+0300	 988	5dc	Using SamplingValue = 265.
+2011-03-21	15:03:02+0300	 988	5dc	Successfully loaded event namespace dictionary.
+2011-03-21	15:03:02+0300	 988	5dc	Successfully loaded client event namespace descriptor.
+2011-03-21	15:03:02+0300	 988	5dc	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-03-21	15:03:02+0300	 988	5dc	Successfully initialized NT event logger.
+2011-03-21	15:03:02+0300	 988	5dc	Successfully initialized event uploader 0.
+2011-03-21	15:03:02+0300	 988	5dc	Successfully initialized event uploader 1.
+2011-03-21	15:03:02+0300	 988	5dc	WU client with version 5.4.3790.2180 successfully initialized
+2011-03-21	15:03:02+0300	 988	5dc	Service status is now SERVICE_RUNNING
+2011-03-21	15:03:03+0300	 988	3e0	Service received connect notification
+2011-03-21	15:03:47+0300	 988	5dc	start delayed initialization of WU client
+2011-03-21	15:03:48+0300	1372	548	Trying to make out of proc datastore active
+2011-03-21	15:03:48+0300	1372	548	Out of proc datastore is now active
+2011-03-21	15:03:48+0300	 988	5dc	Client Call Recorder finished delayed initialization
+2011-03-21	15:03:48+0300	 988	5dc	AU is disabled, not initializing any handlers
+2011-03-21	15:03:48+0300	 988	5dc	AU finished delayed initialization
+2011-03-21	15:08:48+0300	1372	548	Out of proc datastore is shutting down
+2011-03-21	15:08:49+0300	1372	548	Out of proc datastore is now inactive
+2011-03-21	15:11:37+0300	1768	794	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-03-21	15:23:54+0300	1768	794	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-03-21	15:23:56+0300	 988	3e0	Service received logoff notification
+2011-03-21	15:23:57+0300	 988	7f4	AU Restart required....
+2011-03-21	15:23:57+0300	 988	5dc	AU received event of 1
+2011-03-21	15:23:57+0300	 656	1e0	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-03-21	15:23:57+0300	 988	5dc	AU is disabled, not initializing any handlers
+2011-03-21	15:23:59+0300	 988	3e0	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-03-21	15:23:59+0300	 988	5dc	Exiting Service Main
+2011-03-21	15:23:59+0300	 988	5dc	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-03-21	15:26:57+0300	 996	5dc	Service Main starts
+2011-03-21	15:26:58+0300	 996	5dc	Using BatchFlushAge = 29407.
+2011-03-21	15:26:58+0300	 996	5dc	Using SamplingValue = 265.
+2011-03-21	15:26:58+0300	 996	5dc	Successfully loaded event namespace dictionary.
+2011-03-21	15:26:58+0300	 996	5dc	Successfully loaded client event namespace descriptor.
+2011-03-21	15:26:58+0300	 996	5dc	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-03-21	15:26:58+0300	 996	5dc	Successfully initialized NT event logger.
+2011-03-21	15:26:58+0300	 996	5dc	Successfully initialized event uploader 0.
+2011-03-21	15:26:58+0300	 996	5dc	Successfully initialized event uploader 1.
+2011-03-21	15:26:58+0300	 996	5dc	WU client with version 5.4.3790.2180 successfully initialized
+2011-03-21	15:26:58+0300	 996	5dc	Service status is now SERVICE_RUNNING
+2011-03-21	15:26:58+0300	 996	3e8	Service received connect notification
+2011-03-21	15:27:43+0300	 996	5dc	start delayed initialization of WU client
+2011-03-21	15:27:43+0300	 856	388	Trying to make out of proc datastore active
+2011-03-21	15:27:43+0300	1812	764	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-03-21	15:27:43+0300	 856	388	Out of proc datastore is now active
+2011-03-21	15:27:43+0300	 996	5dc	Client Call Recorder finished delayed initialization
+2011-03-21	15:27:43+0300	 996	5dc	AU is disabled, not initializing any handlers
+2011-03-21	15:27:43+0300	 996	5dc	AU finished delayed initialization
+2011-03-21	15:27:45+0300	 996	3e8	Service received logoff notification
+2011-03-21	15:27:46+0300	 996	490	AU Restart required....
+2011-03-21	15:27:46+0300	 996	5dc	AU received event of 1
+2011-03-21	15:27:46+0300	 668	638	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-03-21	15:27:46+0300	 996	5dc	AU is disabled, not initializing any handlers
+2011-03-21	15:27:48+0300	 996	3e8	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-03-21	15:27:48+0300	 996	5dc	Exiting Service Main
+2011-03-21	15:27:48+0300	 856	388	Out of proc datastore is shutting down
+2011-03-21	15:27:48+0300	 996	5dc	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-03-21	15:27:49+0300	 856	388	Out of proc datastore is now inactive
+2011-03-21	15:28:23+0300	 996	65c	Service Main starts
+2011-03-21	15:28:23+0300	 996	65c	Using BatchFlushAge = 29407.
+2011-03-21	15:28:23+0300	 996	65c	Using SamplingValue = 265.
+2011-03-21	15:28:23+0300	 996	65c	Successfully loaded event namespace dictionary.
+2011-03-21	15:28:23+0300	 996	65c	Successfully loaded client event namespace descriptor.
+2011-03-21	15:28:23+0300	 996	65c	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-03-21	15:28:23+0300	 996	65c	Successfully initialized NT event logger.
+2011-03-21	15:28:23+0300	 996	65c	Successfully initialized event uploader 0.
+2011-03-21	15:28:23+0300	 996	65c	Successfully initialized event uploader 1.
+2011-03-21	15:28:23+0300	 996	65c	WU client with version 5.4.3790.2180 successfully initialized
+2011-03-21	15:28:23+0300	 996	65c	Service status is now SERVICE_RUNNING
+2011-03-21	15:28:24+0300	 996	3e8	Service received connect notification
+2011-03-21	15:29:08+0300	 996	65c	start delayed initialization of WU client
+2011-03-21	15:29:09+0300	 484	1e8	Trying to make out of proc datastore active
+2011-03-21	15:29:09+0300	 484	1e8	Out of proc datastore is now active
+2011-03-21	15:29:09+0300	 996	65c	Client Call Recorder finished delayed initialization
+2011-03-21	15:29:09+0300	 996	65c	AU is disabled, not initializing any handlers
+2011-03-21	15:29:09+0300	 996	65c	AU finished delayed initialization
+2011-03-21	15:29:52+0300	1732	74c	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-03-21	15:29:54+0300	 996	3e8	Service received logoff notification
+2011-03-21	15:29:55+0300	 996	68c	AU Restart required....
+2011-03-21	15:29:55+0300	 996	65c	AU received event of 1
+2011-03-21	15:29:55+0300	 672	508	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-03-21	15:29:55+0300	 996	65c	AU is disabled, not initializing any handlers
+2011-03-21	15:29:57+0300	 996	3e8	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-03-21	15:29:57+0300	 996	65c	Exiting Service Main
+2011-03-21	15:29:57+0300	 484	1e8	Out of proc datastore is shutting down
+2011-03-21	15:29:57+0300	 996	65c	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-03-21	15:29:58+0300	 484	1e8	Out of proc datastore is now inactive
+2011-03-21	15:30:30+0300	 992	5e8	Service Main starts
+2011-03-21	15:30:30+0300	 992	5e8	Using BatchFlushAge = 29407.
+2011-03-21	15:30:30+0300	 992	5e8	Using SamplingValue = 265.
+2011-03-21	15:30:30+0300	 992	5e8	Successfully loaded event namespace dictionary.
+2011-03-21	15:30:30+0300	 992	5e8	Successfully loaded client event namespace descriptor.
+2011-03-21	15:30:30+0300	 992	5e8	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-03-21	15:30:30+0300	 992	5e8	Successfully initialized NT event logger.
+2011-03-21	15:30:30+0300	 992	5e8	Successfully initialized event uploader 0.
+2011-03-21	15:30:30+0300	 992	5e8	Successfully initialized event uploader 1.
+2011-03-21	15:30:30+0300	 992	5e8	WU client with version 5.4.3790.2180 successfully initialized
+2011-03-21	15:30:30+0300	 992	5e8	Service status is now SERVICE_RUNNING
+2011-03-21	15:30:31+0300	 992	3e4	Service received connect notification
+2011-03-21	15:31:05+0300	1848	7ac	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-03-21	15:31:08+0300	 992	3e4	Service received logoff notification
+2011-03-21	15:31:09+0300	1064	42c	Trying to make out of proc datastore active
+2011-03-21	15:31:10+0300	1064	42c	Out of proc datastore is now active
+2011-03-21	15:31:10+0300	 992	620	Client Call Recorder finished delayed initialization
+2011-03-21	15:31:10+0300	 992	620	AU is disabled, not initializing any handlers
+2011-03-21	15:31:10+0300	 992	620	AU finished delayed initialization
+2011-03-21	15:31:10+0300	 992	620	AU Restart required....
+2011-03-21	15:31:10+0300	 992	5e8	AU received event of 1
+2011-03-21	15:31:10+0300	 668	424	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-03-21	15:31:10+0300	 992	5e8	AU is disabled, not initializing any handlers
+2011-03-21	15:31:11+0300	 992	3e4	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-03-21	15:31:11+0300	 992	5e8	Exiting Service Main
+2011-03-21	15:31:12+0300	1064	42c	Out of proc datastore is shutting down
+2011-03-21	15:31:12+0300	 992	5e8	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-03-21	15:31:13+0300	1064	42c	Out of proc datastore is now inactive
+2011-08-01	21:44:47+0400	 996	648	Service Main starts
+2011-08-01	21:44:47+0400	 996	648	Using BatchFlushAge = 29407.
+2011-08-01	21:44:47+0400	 996	648	Using SamplingValue = 265.
+2011-08-01	21:44:47+0400	 996	648	Successfully loaded event namespace dictionary.
+2011-08-01	21:44:47+0400	 996	648	Successfully loaded client event namespace descriptor.
+2011-08-01	21:44:47+0400	 996	648	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-08-01	21:44:47+0400	 996	648	Successfully initialized NT event logger.
+2011-08-01	21:44:47+0400	 996	648	Successfully initialized event uploader 0.
+2011-08-01	21:44:47+0400	 996	648	Successfully initialized event uploader 1.
+2011-08-01	21:44:47+0400	 996	648	WU client with version 5.4.3790.2180 successfully initialized
+2011-08-01	21:44:47+0400	 996	648	Service status is now SERVICE_RUNNING
+2011-08-01	21:44:48+0400	 996	3e8	Service received connect notification
+2011-08-01	21:45:32+0400	 996	648	start delayed initialization of WU client
+2011-08-01	21:45:33+0400	1068	430	Trying to make out of proc datastore active
+2011-08-01	21:45:33+0400	1068	430	Out of proc datastore is now active
+2011-08-01	21:45:33+0400	 996	648	Client Call Recorder finished delayed initialization
+2011-08-01	21:45:34+0400	 996	648	AU is disabled, not initializing any handlers
+2011-08-01	21:45:34+0400	 996	648	AU finished delayed initialization
+2011-08-01	21:45:38+0400	 996	3e8	Service received logoff notification
+2011-08-01	21:45:39+0400	 996	500	AU Restart required....
+2011-08-01	21:45:39+0400	 996	648	AU received event of 1
+2011-08-01	21:45:39+0400	 996	648	AU is disabled, not initializing any handlers
+2011-08-01	21:45:39+0400	 672	310	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-08-01	21:45:41+0400	 996	3e8	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-08-01	21:45:41+0400	 996	648	Exiting Service Main
+2011-08-01	21:45:41+0400	1068	430	Out of proc datastore is shutting down
+2011-08-01	21:45:41+0400	 996	648	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-08-01	21:45:42+0400	1068	430	Out of proc datastore is now inactive
+2011-08-01	21:46:16+0400	 960	64c	Service Main starts
+2011-08-01	21:46:16+0400	 960	64c	Using BatchFlushAge = 29407.
+2011-08-01	21:46:16+0400	 960	64c	Using SamplingValue = 265.
+2011-08-01	21:46:16+0400	 960	64c	Successfully loaded event namespace dictionary.
+2011-08-01	21:46:16+0400	 960	64c	Successfully loaded client event namespace descriptor.
+2011-08-01	21:46:16+0400	 960	64c	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-08-01	21:46:16+0400	 960	64c	Successfully initialized NT event logger.
+2011-08-01	21:46:16+0400	 960	64c	Successfully initialized event uploader 0.
+2011-08-01	21:46:16+0400	 960	64c	Successfully initialized event uploader 1.
+2011-08-01	21:46:16+0400	 960	64c	WU client with version 5.4.3790.2180 successfully initialized
+2011-08-01	21:46:16+0400	 960	64c	Service status is now SERVICE_RUNNING
+2011-08-01	21:46:17+0400	 960	3c4	Service received connect notification
+2011-08-01	21:47:01+0400	 960	64c	start delayed initialization of WU client
+2011-08-01	21:47:01+0400	 112	1a0	Trying to make out of proc datastore active
+2011-08-01	21:47:02+0400	 112	1a0	Out of proc datastore is now active
+2011-08-01	21:47:02+0400	 960	64c	Client Call Recorder finished delayed initialization
+2011-08-01	21:47:02+0400	 960	64c	AU is disabled, not initializing any handlers
+2011-08-01	21:47:02+0400	 960	64c	AU finished delayed initialization
+2011-08-01	21:52:02+0400	 112	1a0	Out of proc datastore is shutting down
+2011-08-01	21:52:03+0400	 112	1a0	Out of proc datastore is now inactive
+2011-08-01	21:52:48+0400	1824	778	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-08-01	21:52:50+0400	 960	3c4	Service received logoff notification
+2011-08-01	21:52:51+0400	 960	684	AU Restart required....
+2011-08-01	21:52:51+0400	 960	64c	AU received event of 1
+2011-08-01	21:52:51+0400	 636	5a0	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-08-01	21:52:51+0400	 960	64c	AU is disabled, not initializing any handlers
+2011-08-01	21:52:53+0400	 960	3c4	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-08-01	21:52:53+0400	 960	64c	Exiting Service Main
+2011-08-01	21:52:53+0400	 960	64c	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-09-27	12:53:11+0400	1036	 98	Service Main starts
+2011-09-27	12:53:11+0400	1036	 98	Using BatchFlushAge = 29407.
+2011-09-27	12:53:11+0400	1036	 98	Using SamplingValue = 265.
+2011-09-27	12:53:11+0400	1036	 98	Successfully loaded event namespace dictionary.
+2011-09-27	12:53:12+0400	1036	 98	Successfully loaded client event namespace descriptor.
+2011-09-27	12:53:12+0400	1036	 98	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-09-27	12:53:12+0400	1036	 98	Successfully initialized NT event logger.
+2011-09-27	12:53:12+0400	1036	 98	Successfully initialized event uploader 0.
+2011-09-27	12:53:12+0400	1036	 98	Successfully initialized event uploader 1.
+2011-09-27	12:53:15+0400	1036	 98	WU client with version 5.4.3790.2180 successfully initialized
+2011-09-27	12:53:15+0400	1036	 98	Service status is now SERVICE_RUNNING
+2011-09-27	12:53:15+0400	1036	410	Service received connect notification
+2011-09-27	12:54:00+0400	1036	 98	start delayed initialization of WU client
+2011-09-27	12:54:00+0400	2020	7f0	Trying to make out of proc datastore active
+2011-09-27	12:54:00+0400	2020	7f0	Out of proc datastore is now active
+2011-09-27	12:54:00+0400	1036	 98	Client Call Recorder finished delayed initialization
+2011-09-27	12:54:00+0400	1036	 98	AU is disabled, not initializing any handlers
+2011-09-27	12:54:00+0400	1036	 98	AU finished delayed initialization
+2011-09-27	12:59:01+0400	2020	7f0	Out of proc datastore is shutting down
+2011-09-27	12:59:02+0400	2020	7f0	Out of proc datastore is now inactive
+2011-09-27	13:04:16+0400	1036	410	Service received logoff notification
+2011-09-27	13:04:17+0400	1036	574	AU Restart required....
+2011-09-27	13:04:17+0400	1036	 98	AU received event of 1
+2011-09-27	13:04:17+0400	1036	 98	AU is disabled, not initializing any handlers
+2011-09-27	13:04:17+0400	 632	bbc	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-09-27	13:04:20+0400	1036	410	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-09-27	13:04:20+0400	1036	 98	Exiting Service Main
+2011-09-27	13:04:20+0400	1036	 98	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-09-27	13:09:47+0400	1108	2a0	Service Main starts
+2011-09-27	13:09:50+0400	1108	2a0	Using BatchFlushAge = 29407.
+2011-09-27	13:09:50+0400	1108	2a0	Using SamplingValue = 265.
+2011-09-27	13:09:50+0400	1108	2a0	Successfully loaded event namespace dictionary.
+2011-09-27	13:09:50+0400	1108	2a0	Successfully loaded client event namespace descriptor.
+2011-09-27	13:09:50+0400	1108	2a0	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-09-27	13:09:50+0400	1108	2a0	Successfully initialized NT event logger.
+2011-09-27	13:09:50+0400	1108	2a0	Successfully initialized event uploader 0.
+2011-09-27	13:09:50+0400	1108	2a0	Successfully initialized event uploader 1.
+2011-09-27	13:09:50+0400	1108	2a0	WU client with version 5.4.3790.2180 successfully initialized
+2011-09-27	13:09:50+0400	1108	2a0	Service status is now SERVICE_RUNNING
+2011-09-27	13:09:51+0400	1108	458	Service received connect notification
+2011-09-27	13:10:35+0400	1108	2a0	start delayed initialization of WU client
+2011-09-27	13:10:36+0400	3112	c2c	Trying to make out of proc datastore active
+2011-09-27	13:10:36+0400	3112	c2c	Out of proc datastore is now active
+2011-09-27	13:10:36+0400	1108	2a0	Client Call Recorder finished delayed initialization
+2011-09-27	13:10:36+0400	1108	2a0	AU is disabled, not initializing any handlers
+2011-09-27	13:10:36+0400	1108	2a0	AU finished delayed initialization
+2011-09-27	13:12:15+0400	1108	458	Service received logoff notification
+2011-09-27	13:12:16+0400	1108	698	AU Restart required....
+2011-09-27	13:12:16+0400	1108	2a0	AU received event of 1
+2011-09-27	13:12:16+0400	1108	2a0	AU is disabled, not initializing any handlers
+2011-09-27	13:12:16+0400	 720	748	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-09-27	13:12:18+0400	1108	458	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-09-27	13:12:18+0400	1108	2a0	Exiting Service Main
+2011-09-27	13:12:18+0400	3112	c2c	Out of proc datastore is shutting down
+2011-09-27	13:12:18+0400	1108	2a0	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-09-27	13:12:20+0400	3112	c2c	Out of proc datastore is now inactive
+2011-09-27	13:13:21+0400	1012	1d8	Service Main starts
+2011-09-27	13:13:24+0400	1012	1d8	Using BatchFlushAge = 29407.
+2011-09-27	13:13:24+0400	1012	1d8	Using SamplingValue = 265.
+2011-09-27	13:13:24+0400	1012	1d8	Successfully loaded event namespace dictionary.
+2011-09-27	13:13:24+0400	1012	1d8	Successfully loaded client event namespace descriptor.
+2011-09-27	13:13:24+0400	1012	1d8	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-09-27	13:13:24+0400	1012	1d8	Successfully initialized NT event logger.
+2011-09-27	13:13:24+0400	1012	1d8	Successfully initialized event uploader 0.
+2011-09-27	13:13:24+0400	1012	1d8	Successfully initialized event uploader 1.
+2011-09-27	13:13:24+0400	1012	1d8	WU client with version 5.4.3790.2180 successfully initialized
+2011-09-27	13:13:24+0400	1012	1d8	Service status is now SERVICE_RUNNING
+2011-09-27	13:13:24+0400	1012	3f8	Service received connect notification
+2011-09-27	13:14:09+0400	1012	1d8	start delayed initialization of WU client
+2011-09-27	13:14:09+0400	3212	c90	Trying to make out of proc datastore active
+2011-09-27	13:14:10+0400	3212	c90	Out of proc datastore is now active
+2011-09-27	13:14:10+0400	1012	1d8	Client Call Recorder finished delayed initialization
+2011-09-27	13:14:10+0400	1012	1d8	AU is disabled, not initializing any handlers
+2011-09-27	13:14:10+0400	1012	1d8	AU finished delayed initialization
+2011-09-27	13:19:10+0400	3212	c90	Out of proc datastore is shutting down
+2011-09-27	13:19:11+0400	3212	c90	Out of proc datastore is now inactive
+2011-09-27	13:20:19+0400	1472	5f8	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-09-27	13:20:22+0400	1012	3f8	Service received logoff notification
+2011-09-27	13:20:23+0400	1012	4b0	AU Restart required....
+2011-09-27	13:20:23+0400	1012	1d8	AU received event of 1
+2011-09-27	13:20:23+0400	1012	1d8	AU is disabled, not initializing any handlers
+2011-09-27	13:20:23+0400	 688	bc8	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-09-27	13:20:25+0400	1012	3f8	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-09-27	13:20:25+0400	1012	1d8	Exiting Service Main
+2011-09-27	13:20:26+0400	1012	1d8	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-09-27	13:21:09+0400	1008	1e4	Service Main starts
+2011-09-27	13:21:12+0400	1008	1e4	Using BatchFlushAge = 29407.
+2011-09-27	13:21:12+0400	1008	1e4	Using SamplingValue = 265.
+2011-09-27	13:21:12+0400	1008	1e4	Successfully loaded event namespace dictionary.
+2011-09-27	13:21:12+0400	1008	1e4	Successfully loaded client event namespace descriptor.
+2011-09-27	13:21:12+0400	1008	1e4	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-09-27	13:21:12+0400	1008	1e4	Successfully initialized NT event logger.
+2011-09-27	13:21:12+0400	1008	1e4	Successfully initialized event uploader 0.
+2011-09-27	13:21:12+0400	1008	1e4	Successfully initialized event uploader 1.
+2011-09-27	13:21:12+0400	1008	1e4	WU client with version 5.4.3790.2180 successfully initialized
+2011-09-27	13:21:12+0400	1008	1e4	Service status is now SERVICE_RUNNING
+2011-09-27	13:21:13+0400	1008	3f4	Service received connect notification
+2011-09-27	13:21:57+0400	1008	1e4	start delayed initialization of WU client
+2011-09-27	13:21:58+0400	3120	c34	Trying to make out of proc datastore active
+2011-09-27	13:21:58+0400	3120	c34	Out of proc datastore is now active
+2011-09-27	13:21:58+0400	1008	1e4	Client Call Recorder finished delayed initialization
+2011-09-27	13:21:58+0400	1008	1e4	AU is disabled, not initializing any handlers
+2011-09-27	13:21:58+0400	1008	1e4	AU finished delayed initialization
+2011-09-27	13:26:58+0400	3120	c34	Out of proc datastore is shutting down
+2011-09-27	13:26:59+0400	3120	c34	Out of proc datastore is now inactive
+2011-09-27	13:32:52+0400	1008	3f4	Service received logoff notification
+2011-09-27	13:32:53+0400	1008	4f8	AU Restart required....
+2011-09-27	13:32:53+0400	1008	1e4	AU received event of 1
+2011-09-27	13:32:53+0400	1008	1e4	AU is disabled, not initializing any handlers
+2011-09-27	13:32:53+0400	 684	a40	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-09-27	13:32:55+0400	1008	3f4	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-09-27	13:32:55+0400	1008	1e4	Exiting Service Main
+2011-09-27	13:32:56+0400	1008	1e4	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-09-27	13:40:03+0400	1112	2a0	Service Main starts
+2011-09-27	13:40:06+0400	1112	2a0	Using BatchFlushAge = 29407.
+2011-09-27	13:40:06+0400	1112	2a0	Using SamplingValue = 265.
+2011-09-27	13:40:06+0400	1112	2a0	Successfully loaded event namespace dictionary.
+2011-09-27	13:40:06+0400	1112	2a0	Successfully loaded client event namespace descriptor.
+2011-09-27	13:40:06+0400	1112	2a0	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-09-27	13:40:06+0400	1112	2a0	Successfully initialized NT event logger.
+2011-09-27	13:40:06+0400	1112	2a0	Successfully initialized event uploader 0.
+2011-09-27	13:40:06+0400	1112	2a0	Successfully initialized event uploader 1.
+2011-09-27	13:40:06+0400	1112	2a0	WU client with version 5.4.3790.2180 successfully initialized
+2011-09-27	13:40:06+0400	1112	2a0	Service status is now SERVICE_RUNNING
+2011-09-27	13:40:08+0400	1112	45c	Service received connect notification
+2011-09-27	13:40:51+0400	1112	2a0	start delayed initialization of WU client
+2011-09-27	13:40:52+0400	3128	c3c	Trying to make out of proc datastore active
+2011-09-27	13:40:53+0400	3128	c3c	Out of proc datastore is now active
+2011-09-27	13:40:53+0400	1112	2a0	Client Call Recorder finished delayed initialization
+2011-09-27	13:40:53+0400	1112	2a0	AU is disabled, not initializing any handlers
+2011-09-27	13:40:53+0400	1112	2a0	AU finished delayed initialization
+2011-09-27	13:43:37+0400	1112	45c	Service received logoff notification
+2011-09-27	13:43:38+0400	1112	55c	AU Restart required....
+2011-09-27	13:43:38+0400	1112	2a0	AU received event of 1
+2011-09-27	13:43:38+0400	1112	2a0	AU is disabled, not initializing any handlers
+2011-09-27	13:43:38+0400	 720	1b4	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-09-27	13:43:40+0400	1112	45c	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-09-27	13:43:40+0400	1112	2a0	Exiting Service Main
+2011-09-27	13:43:40+0400	3128	c3c	Out of proc datastore is shutting down
+2011-09-27	13:43:40+0400	1112	2a0	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-09-27	13:43:41+0400	3128	c3c	Out of proc datastore is now inactive
+2011-09-27	13:44:23+0400	 956	740	Service Main starts
+2011-09-27	13:44:26+0400	 956	740	Using BatchFlushAge = 29407.
+2011-09-27	13:44:26+0400	 956	740	Using SamplingValue = 265.
+2011-09-27	13:44:26+0400	 956	740	Successfully loaded event namespace dictionary.
+2011-09-27	13:44:26+0400	 956	740	Successfully loaded client event namespace descriptor.
+2011-09-27	13:44:26+0400	 956	740	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-09-27	13:44:26+0400	 956	740	Successfully initialized NT event logger.
+2011-09-27	13:44:26+0400	 956	740	Successfully initialized event uploader 0.
+2011-09-27	13:44:26+0400	 956	740	Successfully initialized event uploader 1.
+2011-09-27	13:44:26+0400	 956	740	WU client with version 5.4.3790.2180 successfully initialized
+2011-09-27	13:44:26+0400	 956	740	Service status is now SERVICE_RUNNING
+2011-09-27	13:44:27+0400	 956	3c0	Service received connect notification
+2011-09-27	13:45:01+0400	1500	5f4	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-09-27	13:45:03+0400	 956	3c0	Service received logoff notification
+2011-09-27	13:45:05+0400	 516	6b8	Trying to make out of proc datastore active
+2011-09-27	13:45:05+0400	 516	6b8	Out of proc datastore is now active
+2011-09-27	13:45:05+0400	 956	4c0	Client Call Recorder finished delayed initialization
+2011-09-27	13:45:05+0400	 956	4c0	AU is disabled, not initializing any handlers
+2011-09-27	13:45:05+0400	 956	4c0	AU finished delayed initialization
+2011-09-27	13:45:05+0400	 956	4c0	AU Restart required....
+2011-09-27	13:45:05+0400	 956	740	AU received event of 1
+2011-09-27	13:45:05+0400	 632	200	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-09-27	13:45:05+0400	 956	740	AU is disabled, not initializing any handlers
+2011-09-27	13:45:06+0400	 956	3c0	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-09-27	13:45:06+0400	 956	740	Exiting Service Main
+2011-09-27	13:45:07+0400	 516	6b8	Out of proc datastore is shutting down
+2011-09-27	13:45:07+0400	 956	740	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-09-27	13:45:08+0400	 516	6b8	Out of proc datastore is now inactive
+2011-09-27	13:45:58+0400	 956	74c	Service Main starts
+2011-09-27	13:46:01+0400	 956	74c	Using BatchFlushAge = 29407.
+2011-09-27	13:46:01+0400	 956	74c	Using SamplingValue = 265.
+2011-09-27	13:46:01+0400	 956	74c	Successfully loaded event namespace dictionary.
+2011-09-27	13:46:01+0400	 956	74c	Successfully loaded client event namespace descriptor.
+2011-09-27	13:46:01+0400	 956	74c	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-09-27	13:46:01+0400	 956	74c	Successfully initialized NT event logger.
+2011-09-27	13:46:01+0400	 956	74c	Successfully initialized event uploader 0.
+2011-09-27	13:46:01+0400	 956	74c	Successfully initialized event uploader 1.
+2011-09-27	13:46:01+0400	 956	74c	WU client with version 5.4.3790.2180 successfully initialized
+2011-09-27	13:46:01+0400	 956	74c	Service status is now SERVICE_RUNNING
+2011-09-27	13:46:02+0400	 956	3c0	Service received connect notification
+2011-09-27	13:46:46+0400	 956	74c	start delayed initialization of WU client
+2011-09-27	13:46:46+0400	1476	5c8	Trying to make out of proc datastore active
+2011-09-27	13:46:47+0400	1476	5c8	Out of proc datastore is now active
+2011-09-27	13:46:47+0400	 956	74c	Client Call Recorder finished delayed initialization
+2011-09-27	13:46:47+0400	 956	74c	AU is disabled, not initializing any handlers
+2011-09-27	13:46:47+0400	 956	74c	AU finished delayed initialization
+2011-09-27	13:46:50+0400	1508	5fc	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-09-27	13:46:59+0400	1508	5fc	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-09-27	13:47:00+0400	 956	3c0	Service received logoff notification
+2011-09-27	13:47:01+0400	 956	130	AU Restart required....
+2011-09-27	13:47:01+0400	 956	74c	AU received event of 1
+2011-09-27	13:47:01+0400	 632	5f0	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-09-27	13:47:01+0400	 956	74c	AU is disabled, not initializing any handlers
+2011-09-27	13:47:02+0400	 956	3c0	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-09-27	13:47:02+0400	 956	74c	Exiting Service Main
+2011-09-27	13:47:02+0400	1476	5c8	Out of proc datastore is shutting down
+2011-09-27	13:47:02+0400	 956	74c	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-09-27	13:47:04+0400	1476	5c8	Out of proc datastore is now inactive
+2011-10-17	16:29:25+0400	 956	594	Service Main starts
+2011-10-17	16:29:25+0400	 956	594	Using BatchFlushAge = 29407.
+2011-10-17	16:29:25+0400	 956	594	Using SamplingValue = 265.
+2011-10-17	16:29:25+0400	 956	594	Successfully loaded event namespace dictionary.
+2011-10-17	16:29:26+0400	 956	594	Successfully loaded client event namespace descriptor.
+2011-10-17	16:29:26+0400	 956	594	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-10-17	16:29:26+0400	 956	594	Successfully initialized NT event logger.
+2011-10-17	16:29:26+0400	 956	594	Successfully initialized event uploader 0.
+2011-10-17	16:29:26+0400	 956	594	Successfully initialized event uploader 1.
+2011-10-17	16:29:26+0400	 956	594	WU client with version 5.4.3790.2180 successfully initialized
+2011-10-17	16:29:26+0400	 956	594	Service status is now SERVICE_RUNNING
+2011-10-17	16:29:27+0400	 956	3c0	Service received connect notification
+2011-10-17	16:30:11+0400	 956	594	start delayed initialization of WU client
+2011-10-17	16:30:11+0400	 476	1e0	Trying to make out of proc datastore active
+2011-10-17	16:30:12+0400	 476	1e0	Out of proc datastore is now active
+2011-10-17	16:30:12+0400	 956	594	Client Call Recorder finished delayed initialization
+2011-10-17	16:30:12+0400	 956	594	AU is disabled, not initializing any handlers
+2011-10-17	16:30:12+0400	 956	594	AU finished delayed initialization
+2011-10-17	16:35:12+0400	 476	1e0	Out of proc datastore is shutting down
+2011-10-17	16:35:13+0400	 476	1e0	Out of proc datastore is now inactive
+2011-10-17	16:45:05+0400	1004	130	Service Main starts
+2011-10-17	16:45:05+0400	1004	130	Using BatchFlushAge = 29407.
+2011-10-17	16:45:05+0400	1004	130	Using SamplingValue = 265.
+2011-10-17	16:45:05+0400	1004	130	Successfully loaded event namespace dictionary.
+2011-10-17	16:45:05+0400	1004	130	Successfully loaded client event namespace descriptor.
+2011-10-17	16:45:05+0400	1004	130	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-10-17	16:45:05+0400	1004	130	Successfully initialized NT event logger.
+2011-10-17	16:45:05+0400	1004	130	Successfully initialized event uploader 0.
+2011-10-17	16:45:05+0400	1004	130	Successfully initialized event uploader 1.
+2011-10-17	16:45:06+0400	1004	130	WU client with version 5.4.3790.2180 successfully initialized
+2011-10-17	16:45:06+0400	1004	130	Service status is now SERVICE_RUNNING
+2011-10-17	16:45:06+0400	1004	3f0	Service received connect notification
+2011-10-17	16:45:12+0400	1004	3f0	Service received logoff notification
+2011-10-17	16:45:14+0400	1340	564	Trying to make out of proc datastore active
+2011-10-17	16:45:15+0400	1340	564	Out of proc datastore is now active
+2011-10-17	16:45:15+0400	1004	1bc	Client Call Recorder finished delayed initialization
+2011-10-17	16:45:15+0400	1004	1bc	AU is disabled, not initializing any handlers
+2011-10-17	16:45:15+0400	1004	1bc	AU finished delayed initialization
+2011-10-17	16:45:15+0400	1004	1bc	AU Restart required....
+2011-10-17	16:45:15+0400	1004	130	AU received event of 1
+2011-10-17	16:45:15+0400	1004	130	AU is disabled, not initializing any handlers
+2011-10-17	16:45:15+0400	 680	4f4	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-10-17	16:45:16+0400	1004	3f0	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-10-17	16:45:16+0400	1004	130	Exiting Service Main
+2011-10-17	16:45:16+0400	1340	564	Out of proc datastore is shutting down
+2011-10-17	16:45:16+0400	1004	130	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-10-17	16:45:17+0400	1340	564	Out of proc datastore is now inactive
+2011-10-17	16:53:56+0400	1036	128	Service Main starts
+2011-10-17	16:53:56+0400	1036	128	Using BatchFlushAge = 29407.
+2011-10-17	16:53:56+0400	1036	128	Using SamplingValue = 265.
+2011-10-17	16:53:56+0400	1036	128	Successfully loaded event namespace dictionary.
+2011-10-17	16:53:56+0400	1036	128	Successfully loaded client event namespace descriptor.
+2011-10-17	16:53:56+0400	1036	128	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-10-17	16:53:56+0400	1036	128	Successfully initialized NT event logger.
+2011-10-17	16:53:56+0400	1036	128	Successfully initialized event uploader 0.
+2011-10-17	16:53:56+0400	1036	128	Successfully initialized event uploader 1.
+2011-10-17	16:53:56+0400	1036	128	WU client with version 5.4.3790.2180 successfully initialized
+2011-10-17	16:53:56+0400	1036	128	Service status is now SERVICE_RUNNING
+2011-10-17	16:53:57+0400	1036	410	Service received connect notification
+2011-10-17	16:54:41+0400	1036	128	start delayed initialization of WU client
+2011-10-17	16:54:42+0400	1384	54c	Trying to make out of proc datastore active
+2011-10-17	16:54:42+0400	1384	54c	Out of proc datastore is now active
+2011-10-17	16:54:42+0400	1036	128	Client Call Recorder finished delayed initialization
+2011-10-17	16:54:42+0400	1036	128	AU is disabled, not initializing any handlers
+2011-10-17	16:54:42+0400	1036	128	AU finished delayed initialization
+2011-10-17	16:59:42+0400	1384	54c	Out of proc datastore is shutting down
+2011-10-17	16:59:44+0400	1384	54c	Out of proc datastore is now inactive
+2011-10-17	17:02:45+0400	1036	410	Service received logoff notification
+2011-10-17	17:02:47+0400	1036	4b8	AU Restart required....
+2011-10-17	17:02:47+0400	1036	128	AU received event of 1
+2011-10-17	17:02:47+0400	1036	128	AU is disabled, not initializing any handlers
+2011-10-17	17:02:47+0400	 712	a88	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-10-17	17:02:49+0400	1036	410	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-10-17	17:02:49+0400	1036	128	Exiting Service Main
+2011-10-17	17:02:49+0400	1036	128	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-10-17	17:09:51+0400	1036	 ec	Service Main starts
+2011-10-17	17:09:51+0400	1036	 ec	Using BatchFlushAge = 29407.
+2011-10-17	17:09:51+0400	1036	 ec	Using SamplingValue = 265.
+2011-10-17	17:09:51+0400	1036	 ec	Successfully loaded event namespace dictionary.
+2011-10-17	17:09:51+0400	1036	 ec	Successfully loaded client event namespace descriptor.
+2011-10-17	17:09:51+0400	1036	 ec	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-10-17	17:09:51+0400	1036	 ec	Successfully initialized NT event logger.
+2011-10-17	17:09:51+0400	1036	 ec	Successfully initialized event uploader 0.
+2011-10-17	17:09:51+0400	1036	 ec	Successfully initialized event uploader 1.
+2011-10-17	17:09:51+0400	1036	 ec	WU client with version 5.4.3790.2180 successfully initialized
+2011-10-17	17:09:51+0400	1036	 ec	Service status is now SERVICE_RUNNING
+2011-10-17	17:09:52+0400	1036	410	Service received connect notification
+2011-10-17	17:10:36+0400	1036	 ec	start delayed initialization of WU client
+2011-10-17	17:10:36+0400	1384	56c	Trying to make out of proc datastore active
+2011-10-17	17:10:37+0400	1384	56c	Out of proc datastore is now active
+2011-10-17	17:10:37+0400	1036	 ec	Client Call Recorder finished delayed initialization
+2011-10-17	17:10:37+0400	1036	 ec	AU is disabled, not initializing any handlers
+2011-10-17	17:10:37+0400	1036	 ec	AU finished delayed initialization
+2011-10-17	17:12:03+0400	1036	410	Service received logoff notification
+2011-10-17	17:12:04+0400	1036	 70	AU Restart required....
+2011-10-17	17:12:04+0400	1036	 ec	AU received event of 1
+2011-10-17	17:12:04+0400	1036	 ec	AU is disabled, not initializing any handlers
+2011-10-17	17:12:04+0400	 712	974	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-10-17	17:12:06+0400	1036	410	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-10-17	17:12:06+0400	1036	 ec	Exiting Service Main
+2011-10-17	17:12:06+0400	1384	56c	Out of proc datastore is shutting down
+2011-10-17	17:12:06+0400	1036	 ec	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-10-17	17:12:07+0400	1384	56c	Out of proc datastore is now inactive
+2011-10-17	17:12:39+0400	 956	580	Service Main starts
+2011-10-17	17:12:40+0400	 956	580	Using BatchFlushAge = 29407.
+2011-10-17	17:12:40+0400	 956	580	Using SamplingValue = 265.
+2011-10-17	17:12:40+0400	 956	580	Successfully loaded event namespace dictionary.
+2011-10-17	17:12:40+0400	 956	580	Successfully loaded client event namespace descriptor.
+2011-10-17	17:12:40+0400	 956	580	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-10-17	17:12:40+0400	 956	580	Successfully initialized NT event logger.
+2011-10-17	17:12:40+0400	 956	580	Successfully initialized event uploader 0.
+2011-10-17	17:12:40+0400	 956	580	Successfully initialized event uploader 1.
+2011-10-17	17:12:40+0400	 956	580	WU client with version 5.4.3790.2180 successfully initialized
+2011-10-17	17:12:40+0400	 956	580	Service status is now SERVICE_RUNNING
+2011-10-17	17:12:41+0400	 956	3c0	Service received connect notification
+2011-10-17	17:13:06+0400	1680	728	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-10-17	17:13:07+0400	 956	3c0	Service received logoff notification
+2011-10-17	17:13:09+0400	 524	1ec	Trying to make out of proc datastore active
+2011-10-17	17:13:09+0400	 524	1ec	Out of proc datastore is now active
+2011-10-17	17:13:09+0400	 956	640	Client Call Recorder finished delayed initialization
+2011-10-17	17:13:09+0400	 956	640	AU is disabled, not initializing any handlers
+2011-10-17	17:13:09+0400	 956	640	AU finished delayed initialization
+2011-10-17	17:13:09+0400	 956	640	AU Restart required....
+2011-10-17	17:13:09+0400	 956	580	AU received event of 1
+2011-10-17	17:13:09+0400	 636	208	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-10-17	17:13:09+0400	 956	580	AU is disabled, not initializing any handlers
+2011-10-17	17:13:11+0400	 956	3c0	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-10-17	17:13:11+0400	 956	580	Exiting Service Main
+2011-10-17	17:13:11+0400	 524	1ec	Out of proc datastore is shutting down
+2011-10-17	17:13:11+0400	 956	580	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-10-17	17:13:12+0400	 524	1ec	Out of proc datastore is now inactive
+2011-10-17	17:13:43+0400	 960	58c	Service Main starts
+2011-10-17	17:13:44+0400	 960	58c	Using BatchFlushAge = 29407.
+2011-10-17	17:13:44+0400	 960	58c	Using SamplingValue = 265.
+2011-10-17	17:13:44+0400	 960	58c	Successfully loaded event namespace dictionary.
+2011-10-17	17:13:44+0400	 960	58c	Successfully loaded client event namespace descriptor.
+2011-10-17	17:13:44+0400	 960	58c	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2011-10-17	17:13:44+0400	 960	58c	Successfully initialized NT event logger.
+2011-10-17	17:13:44+0400	 960	58c	Successfully initialized event uploader 0.
+2011-10-17	17:13:44+0400	 960	58c	Successfully initialized event uploader 1.
+2011-10-17	17:13:44+0400	 960	58c	WU client with version 5.4.3790.2180 successfully initialized
+2011-10-17	17:13:44+0400	 960	58c	Service status is now SERVICE_RUNNING
+2011-10-17	17:13:45+0400	 960	3c4	Service received connect notification
+2011-10-17	17:14:26+0400	1692	6dc	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2011-10-17	17:14:28+0400	 960	3c4	Service received logoff notification
+2011-10-17	17:14:29+0400	 844	2b8	Trying to make out of proc datastore active
+2011-10-17	17:14:29+0400	 960	58c	start delayed initialization of WU client
+2011-10-17	17:14:29+0400	 844	2b8	Out of proc datastore is now active
+2011-10-17	17:14:29+0400	 960	488	Client Call Recorder finished delayed initialization
+2011-10-17	17:14:29+0400	 960	58c	AU is disabled, not initializing any handlers
+2011-10-17	17:14:29+0400	 960	58c	AU finished delayed initialization
+2011-10-17	17:14:29+0400	 960	488	AU Restart required....
+2011-10-17	17:14:29+0400	 960	58c	AU received event of 1
+2011-10-17	17:14:30+0400	 636	320	WUAutoUpdateAtShutdown failed, hr=8024A000
+2011-10-17	17:14:30+0400	 960	58c	AU is disabled, not initializing any handlers
+2011-10-17	17:14:31+0400	 960	3c4	Service received SERVICE_CONTROL_SHUTDOWN control
+2011-10-17	17:14:31+0400	 960	58c	Exiting Service Main
+2011-10-17	17:14:31+0400	 844	2b8	Out of proc datastore is shutting down
+2011-10-17	17:14:31+0400	 960	58c	WUAUENG ServiceMain exits. Exit code is 0x240001
+2011-10-17	17:14:32+0400	 844	2b8	Out of proc datastore is now inactive
+2012-02-10	17:44:44+0300	 956	588	Service Main starts
+2012-02-10	17:44:44+0300	 956	588	Using BatchFlushAge = 29407.
+2012-02-10	17:44:44+0300	 956	588	Using SamplingValue = 265.
+2012-02-10	17:44:44+0300	 956	588	Successfully loaded event namespace dictionary.
+2012-02-10	17:44:44+0300	 956	588	Successfully loaded client event namespace descriptor.
+2012-02-10	17:44:44+0300	 956	588	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2012-02-10	17:44:44+0300	 956	588	Successfully initialized NT event logger.
+2012-02-10	17:44:44+0300	 956	588	Successfully initialized event uploader 0.
+2012-02-10	17:44:44+0300	 956	588	Successfully initialized event uploader 1.
+2012-02-10	17:44:45+0300	 956	588	WU client with version 5.4.3790.2180 successfully initialized
+2012-02-10	17:44:45+0300	 956	588	Service status is now SERVICE_RUNNING
+2012-02-10	17:44:45+0300	 956	3c0	Service received connect notification
+2012-02-10	17:45:30+0300	 956	588	start delayed initialization of WU client
+2012-02-10	17:45:30+0300	 396	190	Trying to make out of proc datastore active
+2012-02-10	17:45:30+0300	 396	190	Out of proc datastore is now active
+2012-02-10	17:45:30+0300	 956	588	Client Call Recorder finished delayed initialization
+2012-02-10	17:45:30+0300	 956	588	AU is disabled, not initializing any handlers
+2012-02-10	17:45:30+0300	 956	588	AU finished delayed initialization
+2012-03-05	17:47:54+0300	1684	70c	WUCheckForUpdatesAtShutdown failed, hr=8024A000
+2012-03-05	17:47:55+0300	 956	3c0	Service received logoff notification
+2012-03-05	17:47:56+0300	 956	 7c	AU Restart required....
+2012-03-05	17:47:56+0300	 636	108	WUAutoUpdateAtShutdown failed, hr=8024A000
+2012-03-05	17:47:58+0300	 956	3c0	Service received SERVICE_CONTROL_SHUTDOWN control
+2012-03-05	17:47:58+0300	 956	588	Exiting Service Main
+2012-03-05	17:47:58+0300	 396	190	Out of proc datastore is shutting down
+2012-03-05	17:47:58+0300	 956	588	WUAUENG ServiceMain exits. Exit code is 0x240001
+2012-03-05	17:47:59+0300	 396	190	Out of proc datastore is now inactive
+2012-03-14	21:59:40+0300	1352	1e0	Service Main starts
+2012-03-14	21:59:40+0300	1352	1e0	Using BatchFlushAge = 29407.
+2012-03-14	21:59:40+0300	1352	1e0	Using SamplingValue = 265.
+2012-03-14	21:59:40+0300	1352	1e0	Successfully loaded event namespace dictionary.
+2012-03-14	21:59:41+0300	1352	1e0	Successfully loaded client event namespace descriptor.
+2012-03-14	21:59:41+0300	1352	1e0	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2012-03-14	21:59:41+0300	1352	1e0	Successfully initialized NT event logger.
+2012-03-14	21:59:41+0300	1352	1e0	Successfully initialized event uploader 0.
+2012-03-14	21:59:41+0300	1352	1e0	Successfully initialized event uploader 1.
+2012-03-14	21:59:44+0300	1352	1e0	WU client with version 5.4.3790.2180 successfully initialized
+2012-03-14	21:59:44+0300	1352	1e0	Service status is now SERVICE_RUNNING
+2012-03-14	21:59:44+0300	1352	54c	Service received connect notification
+2012-03-14	22:00:29+0300	1352	1e0	start delayed initialization of WU client
+2012-03-14	22:00:29+0300	 848	 b8	Trying to make out of proc datastore active
+2012-03-14	22:00:29+0300	 848	 b8	Out of proc datastore is now active
+2012-03-14	22:00:29+0300	1352	1e0	Client Call Recorder finished delayed initialization
+2012-03-14	22:00:29+0300	1352	1e0	AU is disabled, not initializing any handlers
+2012-03-14	22:00:29+0300	1352	1e0	AU finished delayed initialization
+2012-03-14	22:05:30+0300	 848	 b8	Out of proc datastore is shutting down
+2012-03-14	22:05:31+0300	 848	 b8	Out of proc datastore is now inactive
+2012-03-14	22:29:47+0300	1344	52c	Service Main starts
+2012-03-14	22:29:47+0300	1344	52c	Using BatchFlushAge = 29407.
+2012-03-14	22:29:47+0300	1344	52c	Using SamplingValue = 265.
+2012-03-14	22:29:47+0300	1344	52c	Successfully loaded event namespace dictionary.
+2012-03-14	22:29:47+0300	1344	52c	Successfully loaded client event namespace descriptor.
+2012-03-14	22:29:47+0300	1344	52c	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2012-03-14	22:29:47+0300	1344	52c	Successfully initialized NT event logger.
+2012-03-14	22:29:47+0300	1344	52c	Successfully initialized event uploader 0.
+2012-03-14	22:29:47+0300	1344	52c	Successfully initialized event uploader 1.
+2012-03-14	22:29:50+0300	1344	52c	WU client with version 5.4.3790.2180 successfully initialized
+2012-03-14	22:29:50+0300	1344	52c	Service status is now SERVICE_RUNNING
+2012-03-14	22:29:50+0300	1344	544	Service received connect notification
+2012-03-14	22:30:35+0300	1344	52c	start delayed initialization of WU client
+2012-03-14	22:30:35+0300	3916	f50	Trying to make out of proc datastore active
+2012-03-14	22:30:35+0300	3916	f50	Out of proc datastore is now active
+2012-03-14	22:30:35+0300	1344	52c	Client Call Recorder finished delayed initialization
+2012-03-14	22:30:35+0300	1344	52c	AU is disabled, not initializing any handlers
+2012-03-14	22:30:35+0300	1344	52c	AU finished delayed initialization
+2012-03-14	22:35:36+0300	3916	f50	Out of proc datastore is shutting down
+2012-03-14	22:35:37+0300	3916	f50	Out of proc datastore is now inactive
+2012-03-14	22:59:55+0300	1340	594	Service Main starts
+2012-03-14	22:59:55+0300	1340	594	Using BatchFlushAge = 29407.
+2012-03-14	22:59:55+0300	1340	594	Using SamplingValue = 265.
+2012-03-14	22:59:55+0300	1340	594	Successfully loaded event namespace dictionary.
+2012-03-14	22:59:55+0300	1340	594	Successfully loaded client event namespace descriptor.
+2012-03-14	22:59:55+0300	1340	594	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2012-03-14	22:59:55+0300	1340	594	Successfully initialized NT event logger.
+2012-03-14	22:59:55+0300	1340	594	Successfully initialized event uploader 0.
+2012-03-14	22:59:55+0300	1340	594	Successfully initialized event uploader 1.
+2012-03-14	22:59:58+0300	1340	594	WU client with version 5.4.3790.2180 successfully initialized
+2012-03-14	22:59:58+0300	1340	594	Service status is now SERVICE_RUNNING
+2012-03-14	22:59:58+0300	1340	540	Service received connect notification
+2012-03-14	23:00:43+0300	1340	594	start delayed initialization of WU client
+2012-03-14	23:00:43+0300	3924	f58	Trying to make out of proc datastore active
+2012-03-14	23:00:44+0300	3924	f58	Out of proc datastore is now active
+2012-03-14	23:00:44+0300	1340	594	Client Call Recorder finished delayed initialization
+2012-03-14	23:00:44+0300	1340	594	AU is disabled, not initializing any handlers
+2012-03-14	23:00:44+0300	1340	594	AU finished delayed initialization
+2012-03-14	23:05:44+0300	3924	f58	Out of proc datastore is shutting down
+2012-03-14	23:05:45+0300	3924	f58	Out of proc datastore is now inactive
