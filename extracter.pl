@@ -6,8 +6,7 @@ my $diffsdir = $ARGV[0]; ################/
 my %db;
 &extract($diffsdir, \%db);
 print Dumper(\%db);
-
-print "$db{'startu.bat'}->{'path'}\n"; 			
+#print "$db{'startu.bat'}->{'path'}\n"; 			
 
 sub extract{
 	my ($diffsdir, $db) = @_;
