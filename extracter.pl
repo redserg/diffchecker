@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use Data::Dumper;
 
-print "$ARGV[0]\n";
+#print "$ARGV[0]\n";
 my $diffsdir = $ARGV[0]; ################/
 my %db;
 &extract($diffsdir, \%db);
@@ -16,8 +16,8 @@ sub extract{
 		if(m/'(.+?)'\s(\w+)\s(\w+_\d+)$/){
 			my ($winpath, $state, $path) = ($1,$2,$3);
 			if ($winpath ne ''){
-					($db{$winpath}->{'state'}) = $state =~ /^(.)/ if($state ne '');
-					$db{$winpath}->{'path'} = $path;
+					($db->{$winpath}->{'state'}) = $state =~ /^(.)/ if($state ne '');
+					$db->{$winpath}->{'path'} = $path;
 					
 			}
 		}
@@ -29,6 +29,7 @@ sub extract{
 	for(keys %$db){
 		&read_file_inf($diffsdir,$db,$_);
 	}
+	return 0;
 }
 		
 sub read_file_inf{
@@ -45,12 +46,23 @@ sub read_file_inf{
 		$db{$winpath}->{'size'}= $size;
 		
 	}
-	if(-d $file){
+	elsif(-d $file){ #directories have no size
+		$db{$winpath}->{'type'}= "directory";
 		my $len=length "$file/";
 		my @all_files=glob "$file/*";
 		for(@all_files){
 			my $name=substr($_,$len);
-			&read_file_inf($_,"$winpath/$name",$task_id, $state); 	
+			my $new_winpath = "$winpath/$name";
+			$db->{$new_winpath}->{'path'} = "$db{$winpath}->{'path'}/$name";
+			$db->{$new_winpath}->{'state'} = $db{$winpath}->{'state'};
+			&read_file_inf($diffsdir, $db , $new_winpath); 	
 		}
 	}
+	else{
+		$db{$winpath}->{'state'}= "d";
+		delete $db{$winpath};
+		warn "$file does not exist\n";
+	}
+
+
 }
