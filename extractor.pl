@@ -1,13 +1,4 @@
-#!/usr/bin/perl
-use Data::Dumper;
-
-#print "$ARGV[0]\n";
-my $diffsdir = $ARGV[0]; ################/
-my %db;
-&extract($diffsdir, \%db);
-print Dumper(\%db);
-#print "$db{'startu.bat'}->{'path'}\n"; 			
-
+package Extractor;
 sub extract{
 	my ($diffsdir, $db) = @_;
 	open my $rf, "<" , "$diffsdir/diff.files" or return -1;########## 
@@ -23,8 +14,6 @@ sub extract{
 	}
 	close $rf;
 
-
-
 	for(keys %$db){
 		&read_file_inf($diffsdir,$db,$_);
 	}
@@ -35,14 +24,14 @@ sub read_file_inf{
 	my ($diffsdir,$db,$winpath)= @_;
 	my $size;
 	my $type;
-	my $file="$diffsdir/$db{$winpath}->{'path'}";
+	my $file="$diffsdir/$db->{$winpath}->{'path'}";
 	if(-f $file){
 		$size = -s $file;
 		$type = `file -b '$file'`;
 		chop $type;
 		($type)=$type=~/^(.{0,512})/;
-		$db{$winpath}->{'type'}= $type;
-		$db{$winpath}->{'size'}= $size;
+		$db->{$winpath}->{'type'}= $type;
+		$db->{$winpath}->{'size'}= $size;
 		
 	}
 	elsif(-d $file){ #directories have no size
@@ -52,16 +41,16 @@ sub read_file_inf{
 		for(@all_files){
 			my $name=substr($_,$len);
 			my $new_winpath = "$winpath/$name";
-			$db->{$new_winpath}->{'path'} = "$db{$winpath}->{'path'}/$name";
-			$db->{$new_winpath}->{'state'} = $db{$winpath}->{'state'};
+			$db->{$new_winpath}->{'path'} = "$dbi->{$winpath}->{'path'}/$name";
+			$db->{$new_winpath}->{'state'} = $db->{$winpath}->{'state'};
 			&read_file_inf($diffsdir, $db , $new_winpath); 	
 		}
 	}
 	else{
-		$db{$winpath}->{'state'}= "d";
-		delete $db{$winpath};
+		$db->{$winpath}->{'state'}= "d";
+		delete $db->{$winpath};
 		warn "$file does not exist\n";
 	}
-
-
+	return 0;
 }
+1;
