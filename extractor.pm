@@ -35,13 +35,13 @@ sub read_file_inf{
 		
 	}
 	elsif(-d $file){ #directories have no size
-		$db{$winpath}->{'type'}= "directory";
+		$db->{$winpath}->{'type'}= 'directory';
 		my $len=length "$file/";
-		my @all_files=glob "$file/*";
+		my @all_files=glob "$file/*";###########hve to use state?
 		for(@all_files){
 			my $name=substr($_,$len);
 			my $new_winpath = "$winpath/$name";
-			$db->{$new_winpath}->{'path'} = "$dbi->{$winpath}->{'path'}/$name";
+			$db->{$new_winpath}->{'path'} = "$db->{$winpath}->{'path'}/$name";
 			$db->{$new_winpath}->{'state'} = $db->{$winpath}->{'state'};
 			&read_file_inf($diffsdir, $db , $new_winpath); 	
 		}
