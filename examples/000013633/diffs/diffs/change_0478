@@ -1,0 +1,14 @@
+(Wed Oct 19 13:36:48 2011.341484) : WDM call returned error: 4200
+(Wed Oct 19 13:43:44 2011.83750) : WDM call returned error: 4200
+(Wed Oct 19 13:44:25 2011.125312) : Received Event
+(Wed Oct 19 15:20:53 2011.68265) : WDM call returned error: 4200
+(Wed Oct 19 15:23:51 2011.246578) : WDM call returned error: 4200
+(Wed Oct 19 15:28:14 2011.509109) : Impersonation failed - Access denied
+(Wed Oct 19 15:33:45 2011.108656) : WDM call returned error: 4200
+(Wed Oct 19 14:36:04 2011.246968) : WDM call returned error: 4200
+(Wed Oct 19 14:41:53 2011.258000) : WDM call returned error: 4200
+(Sat Jan 28 09:06:09 2012.80218) : WDM call returned error: 4200
+(Sat Jan 28 09:09:05 2012.256468) : WDM call returned error: 4200
+(Sat Jan 28 09:12:44 2012.475609) : Impersonation failed - Access denied
+(Sat Jan 28 09:39:13 2012.255890) : WDM call returned error: 4200
+(Sat Jan 28 10:09:22 2012.255984) : WDM call returned error: 4200
