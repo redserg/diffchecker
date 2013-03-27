@@ -15,4 +15,6 @@ my %sfp;
 Filter::extract_system_file_path(\%sfp, "./system_file_path.conf");
 Filter::universal_system_file_path_filter( \%db , \%sfp);
 
+Filter::double_extension_filter(\%db);
+
 #print Dumper(\%sfp);

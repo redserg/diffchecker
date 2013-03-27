@@ -1,9 +1,5 @@
 
 package Filter;
-sub extra_executable{
-	my ($db) = @_;
-
-}
 sub universal_regexp_filter_i{
 	my ($db , $winpath_cond , $state_cond , $type_cond) = @_;
 	print "universal_regexp_filter_i(,$winpath_cond,$state_cond,$type_cond)\n";
@@ -60,5 +56,28 @@ sub universal_system_file_path_filter{
 	}
 	return 0;
 }
+
+
+sub get_extension{
+	my ($winpath ) = @_;
+	my $ext;
+	if(scalar reverse($winpath) =~ m/([^\/\\]+)\./i){
+		$ext = scalar reverse($1);
+	}
+	return $ext;
+}
+sub double_extension_filter{
+	my ($db ) = @_;
+	while ( my ($winpath, $href) = each %$db){
+		my $ext = get_extension($winpath);
+		if($ext){
+			print "extension:$ext:$winpath\n";
+		}
+		else{
+			print "no extension:$winpath\n";	
+		}
+	}
+}
+
 1;
 
