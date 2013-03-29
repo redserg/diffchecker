@@ -21,12 +21,12 @@ sub extract_system_file_path{
 	my ($sfp , $conf) = @_;
 	open my $rf, "<" , "$conf" or return -1;
 	while(<$rf>){
-		if(m/'(.+?)'\s'(.+?)'/){
+		if(m/^'(.+?)'\s'(.+?)'$/){
 			my ($file , $path) = ($1 , $2);
 			push  @{$sfp->{$file}}, $path;######mb tolower?//
 		}
 		else{
-			warn "bad string in system file conf:$_";
+			warn "extract_system_file_path:$conf:bad string in system file conf:$_";
 		}
 	}
 	close $rf;
@@ -38,7 +38,7 @@ sub universal_system_file_path_filter{
 	print "universal_system_file_path\n";
 	while ( my ($winpath, $href) = each %$db){
 		while ( my ($file , $aref) = each %$sfp){
-			if ($winpath =~ m/($file)/i){
+			if ($winpath =~ m/($file)$/i){
 				my $flag = 1;
 				for (@$aref){
 					if($winpath =~ m/($_)/i){
@@ -78,6 +78,19 @@ sub double_extension_filter{
 		}
 	}
 }
+sub path_list_filter{
+	my ($db , $path_conf , $state_cond , $type_cond) = @_;
+	print "path_list_filter(,$path_conf, $state_cond, $type_cond)\n";
+	open my $rf, "<" , "$path_conf" or return -1;
+	while(<$rf>){
+		if(m/^'(.+)'$/){
+			my $winpath_cond = $1;
+			universal_regexp_filter_i($db, $winpath_cond, $state_cond, $type_cond);
+		}
+	}
+}
+
+
 
 1;
 

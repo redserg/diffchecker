@@ -3,7 +3,7 @@ sub extract{
 	my ($diffsdir, $db) = @_;
 	open my $rf, "<" , "$diffsdir/diff.files" or return -1;########## 
 	while(<$rf>){
-		if(m/'(.+?)'\s(\w+)\s(\w+_\d+)$/){
+		if(m/^'(.+?)'\s(\w+)\s(\w+_\d+)$/){
 			my ($winpath, $state, $path) = ($1,$2,$3);
 			if ($winpath ne ''){
 					($db->{$winpath}->{'state'}) = $state =~ /^(.)/ if($state ne '');
@@ -49,7 +49,7 @@ sub read_file_inf{
 	else{
 		$db->{$winpath}->{'state'}= "d";
 		delete $db->{$winpath};
-		warn "$file does not exist\n";
+		warn "extractor:$file does not exist\n";
 	}
 	return 0;
 }
