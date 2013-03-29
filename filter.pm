@@ -47,7 +47,11 @@ sub universal_system_file_path_filter{
 					}
 				}
 				if($flag){
-					print "$winpath:$href->{'state'}:$href->{'type'}\n";	
+					print "wrong path:\t$winpath:$href->{'state'}:$href->{'type'}\n";	
+				}
+				elsif($href->{'state'} =~ m/c/i){
+					print "system file changed:\t$winpath:$href->{'state'}:$href->{'type'}\n";
+					
 				}
 			
 			}
