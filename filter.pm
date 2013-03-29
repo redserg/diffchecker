@@ -2,7 +2,7 @@
 package Filter;
 sub universal_regexp_filter_i{
 	my ($db , $winpath_cond , $state_cond , $type_cond) = @_;
-	print "universal_regexp_filter_i(,$winpath_cond,$state_cond,$type_cond)\n";
+	print "\tuniversal_regexp_filter_i(,$winpath_cond,$state_cond,$type_cond)\n";
 	while (my ($winpath , $href) = each %$db){
 		if( "$winpath" =~ m/($winpath_cond)/i ){
 			if ( $href->{'state'} =~ m/($state_cond)/i
@@ -35,7 +35,7 @@ sub extract_system_file_path{
 	
 sub universal_system_file_path_filter{
 	my ( $db , $sfp ) = @_;
-	print "universal_system_file_path\n";
+	print "\tuniversal_system_file_path\n";
 	while ( my ($winpath, $href) = each %$db){
 		while ( my ($file , $aref) = each %$sfp){
 			if ($winpath =~ m/($file)$/i){
@@ -80,7 +80,7 @@ sub double_extension_filter{
 }
 sub path_list_filter{
 	my ($db , $path_conf , $state_cond , $type_cond) = @_;
-	print "path_list_filter(,$path_conf, $state_cond, $type_cond)\n";
+	print "\tpath_list_filter(,$path_conf, $state_cond, $type_cond)\n";
 	open my $rf, "<" , "$path_conf" or return -1;
 	while(<$rf>){
 		if(m/^'(.+)'$/){
