@@ -62,25 +62,59 @@ sub universal_system_file_path_filter{
 }
 
 
-sub get_extension{
+sub get_name_extension{
 	my ($winpath ) = @_;
 	my $ext;
-	if(scalar reverse($winpath) =~ m/([^\/\\]+)\./i){
+	my $name;
+	if(scalar reverse($winpath) =~ m/([^\/\\]+)\.(.*?)\//i){
 		$ext = scalar reverse($1);
+		$name = scalar reverse($2);
 	}
-	return $ext;
+	elsif(scalar reverse($winpath) =~ m/(.*?)\//i){
+		$name = scalar reverse($1);
+	}
+	return ($name, $ext);
 }
 sub double_extension_filter{
 	my ($db ) = @_;
 	while ( my ($winpath, $href) = each %$db){
-		my $ext = get_extension($winpath);
-		if($ext){
-			print "extension:$ext:$winpath\n";
+		if($href->{'type'} =~ m/executable/i){
+			my ($name,$ext) = get_name_extension($winpath);
+			if($ext){
+				my ($name1,$ext1) = get_name_extension($name);
+				if($ext1){
+					print "executable double extension:$ext1.$ext2:$winpath\n";
+				}
+			}
+		}
+
+		#my ($name,$ext) = get_name_extension($winpath);
+		#if($ext){
+		#	print "e:$ext:\t$name:\t$winpath\n";
+		#}
+		#else{
+		#	print "no e:$winpath\n";	
+		#}
+	}
+}
+sub extract_extension_list{
+	my ($el, $list_file) = @_;
+	open my $rf, "<" , "$list_file" or return -1;
+	while(<$rf>){
+		if(m/^'(.+?)'\s'(.+?)'/){
+			my ($ext, $type) = ($1, $2);
+			$el->{$ext}=$type;
 		}
 		else{
-			print "no extension:$winpath\n";	
+			warn "extract_extension_list:$list_file:bad string:$_";
 		}
 	}
+	close $rf;
+	return 0;
+}
+sub extension_list_filter{
+	my ($db, $list_file)
+
 }
 sub path_list_filter{
 	my ($db , $path_conf , $state_cond , $type_cond) = @_;
