@@ -16,9 +16,16 @@ Extractor::extract($diffsdir, \%db) and die "extractor error";
 #Filter::extract_system_file_path(\%sfp, $SYSTEM_FILE_PATH);
 #print Dumper(\%sfp);
 #Filter::universal_system_file_path_filter( \%db , \%sfp);
-my %el;
-Filter::extract_extension_list(\%el, $EXTENSION_LIST);
-print Dumper(\%el);
+
+#my %el;
+#Filter::extract_extension_list(\%el, $EXTENSION_LIST);
+#print Dumper(\%el);
 #Filter::double_extension_filter(\%db); #not supported yet
+
+
+#my %sp;
+#Filter::extract_suspicious_path(\%sp, $SUSPICIOUS_PATH);
+#print Dumper(\%sp);
+#Filter::universal_suspicious_path_filter(\%db,\%sp, 'executable');
 
 #Filter::path_list_filter( \%db, $SUSPICIOUS_PATH, 'e', 'executable');

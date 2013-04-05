@@ -34,7 +34,7 @@ sub extract_system_file_path{
 }
 	
 sub universal_system_file_path_filter{
-	my ( $db , $sfp ) = @_;
+	my ( $db , $sfp) = @_;
 	print "\tuniversal_system_file_path\n";
 	while ( my ($winpath, $href) = each %$db){
 		while ( my ($file , $aref) = each %$sfp){
@@ -60,8 +60,39 @@ sub universal_system_file_path_filter{
 	}
 	return 0;
 }
+sub extract_suspicious_path{
+	my ($sp , $conf) = @_;
+	open my $rf, "<" , "$conf" or return -1;
+	while(<$rf>){
+		if(m/^'(.+?)'$/){
+			my ($path) = ($1);
+			$sp->{$path}=1;######mb tolower?//
+		}
+		else{
+			warn "extract_suspicious_path:$conf:bad string in system file conf:$_";
+		}
+	}
+	close $rf;
+	return 0;
+}
 
 
+sub universal_suspicious_path_filter{
+	my ( $db , $sp, $type) = @_;
+	print "\tsuspicious_path\n";
+	while ( my ($winpath, $href) = each %$db){
+		if($href->{'type'} =~ m/executable/i){
+			for my $path ( keys %$sp){
+				if ($winpath =~ m/($path)/i){
+					print "$winpath:$href->{'state'}:$href->{'type'}\n";
+				}
+			}
+		}
+	
+	}
+	return 0;
+
+}
 sub get_name_extension{
 	my ($winpath ) = @_;
 	my $ext;
@@ -78,7 +109,7 @@ sub get_name_extension{
 sub double_extension_filter{
 	my ($db ) = @_;
 	while ( my ($winpath, $href) = each %$db){
-		if($href->{'type'} =~ m/executable/i){
+		if($href->{'type'} =~ m/($type)/i){
 			my ($name,$ext) = get_name_extension($winpath);
 			if($ext){
 				my ($name1,$ext1) = get_name_extension($name);
@@ -116,17 +147,17 @@ sub extension_list_filter{
 	my ($db, $list_file)
 
 }
-sub path_list_filter{
-	my ($db , $path_conf , $state_cond , $type_cond) = @_;
-	print "\tpath_list_filter(,$path_conf, $state_cond, $type_cond)\n";
-	open my $rf, "<" , "$path_conf" or return -1;
-	while(<$rf>){
-		if(m/^'(.+)'$/){
-			my $winpath_cond = $1;
-			universal_regexp_filter_i($db, $winpath_cond, $state_cond, $type_cond);
-		}
-	}
-}
+#sub path_list_filter{
+#	my ($db , $path_conf , $state_cond , $type_cond) = @_;
+#	print "\tpath_list_filter(,$path_conf, $state_cond, $type_cond)\n";
+#	open my $rf, "<" , "$path_conf" or return -1;
+#	while(<$rf>){
+#		if(m/^'(.+)'$/){
+#			my $winpath_cond = $1;
+#			universal_regexp_filter_i($db, $winpath_cond, $state_cond, $type_cond);
+#		}
+#	}
+#}
 
 
 
