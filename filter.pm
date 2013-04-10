@@ -79,7 +79,7 @@ sub extract_suspicious_path{
 
 sub universal_suspicious_path_filter{
 	my ( $db , $sp, $type) = @_;
-	print "\tsuspicious_path\n";
+	print "\tsuspicious_path_filter\n";
 	while ( my ($winpath, $href) = each %$db){
 		if($href->{'type'} =~ m/executable/i){
 			for my $path ( keys %$sp){
@@ -108,6 +108,7 @@ sub get_name_extension{
 }
 sub double_extension_filter{
 	my ($db ) = @_;
+	print "\tdouble_extension_filter\n";
 	while ( my ($winpath, $href) = each %$db){
 		if($href->{'type'} =~ m/($type)/i){
 			my ($name,$ext) = get_name_extension($winpath);
@@ -133,8 +134,8 @@ sub extract_extension_list{
 	open my $rf, "<" , "$list_file" or return -1;
 	while(<$rf>){
 		if(m/^'(.+?)'\s'(.+?)'/){
-			my ($ext, $type) = ($1, $2);
-			$el->{$ext}=$type;
+			my ($ext, $type) = (lc $1, lc $2);
+			$el->{$type}->{$ext}=1;
 		}
 		else{
 			warn "extract_extension_list:$list_file:bad string:$_";
@@ -144,7 +145,18 @@ sub extract_extension_list{
 	return 0;
 }
 sub extension_list_filter{
-	my ($db, $list_file)
+	my ($db, $el) = @_;
+	print "\textension_list_filter\n";
+	while ( my ($winpath, $href) = each %$db){
+		my ($name,$ext) = get_name_extension($winpath);
+		for(keys %$el){
+			if($href->{'type'} =~ m/($_)/i){
+				unless(defined($el->{$_}->{lc $ext})){
+					print "$winpath:$href->{'state'}:$href->{'type'}\n";	
+				}
+			}
+		}
+	}
 
 }
 #sub path_list_filter{

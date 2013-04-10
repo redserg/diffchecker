@@ -9,7 +9,7 @@ my %db;
 Extractor::extract($diffsdir, \%db) and die "extractor error";
 
 #Filter::universal_regexp_filter_i(\%db, 'app', '' , 'dir' );
-#Filter::universal_regexp_filter_i(\%db, '', 'e' , 'executable' );
+Filter::universal_regexp_filter_i(\%db, '', '' , 'executable' );
 #Filter::universal_regexp_filter_i(\%db, 'exe', '' , '' );
 
 #my %sfp;
@@ -17,9 +17,10 @@ Extractor::extract($diffsdir, \%db) and die "extractor error";
 #print Dumper(\%sfp);
 #Filter::universal_system_file_path_filter( \%db , \%sfp);
 
-#my %el;
-#Filter::extract_extension_list(\%el, $EXTENSION_LIST);
-#print Dumper(\%el);
+my %extension_list, %type_list;
+Filter::extract_extension_list(\%extension_list, $EXTENSION_LIST);
+Filter::extension_list_filter(\%db,\%extension_list);
+#print Dumper(\%extension_list);
 #Filter::double_extension_filter(\%db); #not supported yet
 
 
