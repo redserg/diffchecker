@@ -93,11 +93,11 @@ sub universal_suspicious_path_filter{
 	return 0;
 
 }
-sub get_name_extension{
+sub get_name_extension{#dont work without /
 	my ($winpath ) = @_;
 	my $ext;
 	my $name;
-	if(scalar reverse($winpath) =~ m/([^\/\\]+)\.(.*?)\//i){
+	if(scalar reverse($winpath) =~ m/([^\/\\]+?)\.([^\/\\]+)/i){
 		$ext = scalar reverse($1);
 		$name = scalar reverse($2);
 	}
@@ -110,15 +110,15 @@ sub double_extension_filter{
 	my ($db ) = @_;
 	print "\tdouble_extension_filter\n";
 	while ( my ($winpath, $href) = each %$db){
-		if($href->{'type'} =~ m/($type)/i){
+		#if($href->{'type'} =~ m/executable/i){# make susp types list for this
 			my ($name,$ext) = get_name_extension($winpath);
 			if($ext){
 				my ($name1,$ext1) = get_name_extension($name);
 				if($ext1){
-					print "executable double extension:$ext1.$ext2:$winpath\n";
+					print "executable double extension:$ext1.$ext:$winpath\n";
 				}
 			}
-		}
+		#}
 
 		#my ($name,$ext) = get_name_extension($winpath);
 		#if($ext){
