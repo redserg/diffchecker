@@ -66,7 +66,7 @@ sub extract_suspicious_path{
 	while(<$rf>){
 		if(m/^'(.+?)'$/){
 			my ($path) = ($1);
-			$sp->{$path}=1;######mb tolower?//
+			$sp->{$path}=1;######mb tolower?// or mb array?
 		}
 		else{
 			warn "extract_suspicious_path:$conf:bad string in system file conf:$_";
