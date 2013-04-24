@@ -1,0 +1,1460 @@
+000028309.exe extra
+Documents and Settings/Alec/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat changed
+	cksum expected 884097004 found 3773870835
+Documents and Settings/Alec/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat.LOG changed
+	cksum expected 3305705906 found 261761755
+Documents and Settings/Alec/Local Settings/Temp/hstart.exe extra
+Documents and Settings/Alec/Local Settings/Temp/l2.bat extra
+Documents and Settings/Alec/Local Settings/Temp/svchosts.exe extra
+Documents and Settings/Alec/NTUSER.DAT changed
+	cksum expected 2922215949 found 1346387303
+Documents and Settings/Alec/NTUSER.DAT.LOG changed
+	cksum expected 1898143778 found 348155799
+Documents and Settings/LocalService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat changed
+	cksum expected 4131124259 found 3831555242
+Documents and Settings/LocalService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat.LOG changed
+	cksum expected 3737223986 found 355470881
+Documents and Settings/LocalService/NTUSER.DAT changed
+	cksum expected 3958159009 found 1373677334
+Documents and Settings/LocalService/ntuser.dat.LOG changed
+	cksum expected 2044806015 found 2359520340
+Documents and Settings/NetworkService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat changed
+	cksum expected 3390367352 found 2701203181
+Documents and Settings/NetworkService/Local Settings/Application Data/Microsoft/Windows/UsrClass.dat.LOG changed
+	cksum expected 767273477 found 1669960996
+Documents and Settings/NetworkService/NTUSER.DAT changed
+	cksum expected 1776276971 found 3301032830
+Documents and Settings/NetworkService/ntuser.dat.LOG changed
+	cksum expected 2815252684 found 2840520364
+System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP4 extra
+System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/_driver.cfg changed
+	cksum expected 1865233058 found 3222583821
+System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/drivetable.txt changed
+	size expected 262 found 130
+	cksum expected 1084525176 found 741321559
+System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/fifo.log extra
+WINDOWS/Debug/UserMode/userenv.log changed
+	size expected 36554 found 39686
+	cksum expected 4191109395 found 576287978
+WINDOWS/SchedLgU.Txt changed
+	size expected 8912 found 9290
+	cksum expected 2588856695 found 1370853697
+WINDOWS/SoftwareDistribution/DataStore/DataStore.edb changed
+	cksum expected 1595544285 found 1649898040
+WINDOWS/SoftwareDistribution/DataStore/Logs/edb.chk changed
+	cksum expected 1913991794 found 3903094451
+WINDOWS/SoftwareDistribution/DataStore/Logs/edb.log changed
+	cksum expected 3422188390 found 1231188702
+WINDOWS/Tasks/SA.DAT changed
+	cksum expected 3775404189 found 856807745
+WINDOWS/WindowsUpdate.log changed
+	size expected 76090 found 80890
+	cksum expected 1627692579 found 3039980606
+WINDOWS/bootstat.dat changed
+	cksum expected 2254521854 found 2001407389
+WINDOWS/pchealth/helpctr/Config/Cache/Professional_32_1049.dat extra
+WINDOWS/pchealth/helpctr/Config/CheckPoint/tmp.edb extra
+WINDOWS/pchealth/helpctr/Config/Cntstore.bin changed
+	size expected 8738 found 8972
+	cksum expected 3307624623 found 3829193388
+WINDOWS/pchealth/helpctr/Database/HCdata.edb changed
+	cksum expected 3118848642 found 1384610375
+WINDOWS/pchealth/helpctr/Logs/hcupdate.log changed
+	size expected 30474 found 431920
+	cksum expected 2434379249 found 1152637438
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000005.query changed
+	cksum expected 226065810 found 583975592
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000006.query changed
+	cksum expected 226065810 found 583975592
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000009.query changed
+	cksum expected 3985280564 found 2691327831
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000000a.query changed
+	cksum expected 3985280564 found 2691327831
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000000c.query changed
+	cksum expected 580117382 found 4288414452
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000000e.query changed
+	cksum expected 2622728455 found 1412162967
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000000f.query changed
+	cksum expected 2622728455 found 1412162967
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000001a.query changed
+	cksum expected 1609460944 found 2644088
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000001b.query changed
+	cksum expected 1609460944 found 2644088
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000001d.query changed
+	cksum expected 1631394088 found 1317709330
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000001e.query changed
+	cksum expected 1631394088 found 1317709330
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000020.query changed
+	cksum expected 1294613475 found 4199604770
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000022.query changed
+	cksum expected 2394204383 found 872761329
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000023.query changed
+	cksum expected 2394204383 found 872761329
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000039.query changed
+	cksum expected 556559394 found 2227733880
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000003a.query changed
+	cksum expected 556559394 found 2227733880
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000046.query changed
+	cksum expected 2010323139 found 3551532870
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000047.query changed
+	cksum expected 2010323139 found 3551532870
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000004a.query changed
+	cksum expected 2296871371 found 3584282929
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000004b.query changed
+	cksum expected 2296871371 found 3584282929
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000004c.query changed
+	cksum expected 1161604225 found 2553499123
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000050.query changed
+	cksum expected 1706388498 found 1241699112
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000051.query changed
+	cksum expected 652911977 found 3270106698
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000052.query changed
+	cksum expected 652911977 found 3270106698
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000054.query changed
+	cksum expected 2093395414 found 203320472
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000056.query changed
+	cksum expected 3998652320 found 1947200093
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000057.query changed
+	cksum expected 3998652320 found 1947200093
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000058.query changed
+	cksum expected 2021104911 found 1472209461
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000005a.query changed
+	cksum expected 1713440635 found 2493788423
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000005b.query changed
+	cksum expected 1713440635 found 2493788423
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000005c.query changed
+	cksum expected 2678001552 found 1368994358
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000005e.query changed
+	cksum expected 1224627137 found 3552292309
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000005f.query changed
+	cksum expected 1224627137 found 3552292309
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000060.query changed
+	cksum expected 153919265 found 3559095891
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000062.query changed
+	cksum expected 206241233 found 2824881094
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000063.query changed
+	cksum expected 206241233 found 2824881094
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000064.query changed
+	cksum expected 2235494103 found 3874476278
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000066.query changed
+	cksum expected 3348935179 found 2005117216
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000067.query changed
+	cksum expected 3348935179 found 2005117216
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000068.query changed
+	cksum expected 2315080364 found 1425191902
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000006a.query changed
+	cksum expected 281646143 found 3666532181
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000006b.query changed
+	cksum expected 281646143 found 3666532181
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000079.query changed
+	cksum expected 2405143027 found 4286795965
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000007a.query changed
+	cksum expected 2405143027 found 4286795965
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000007e.query changed
+	cksum expected 4088412953 found 2475231986
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000007f.query changed
+	cksum expected 4088412953 found 2475231986
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000082.query changed
+	cksum expected 3849561396 found 1869168741
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000083.query changed
+	cksum expected 3849561396 found 1869168741
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000008a.query changed
+	cksum expected 822636179 found 2317864526
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000008b.query changed
+	cksum expected 822636179 found 2317864526
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000092.query changed
+	cksum expected 3540883759 found 1771835904
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000093.query changed
+	cksum expected 3540883759 found 1771835904
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000009a.query changed
+	cksum expected 649394011 found 3432316559
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000009b.query changed
+	cksum expected 649394011 found 3432316559
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000009e.query changed
+	cksum expected 3743873273 found 387283408
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000009f.query changed
+	cksum expected 3743873273 found 387283408
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000a2.query changed
+	cksum expected 3498862102 found 1877282192
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000a3.query changed
+	cksum expected 3498862102 found 1877282192
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000a6.query changed
+	cksum expected 1796473496 found 1672814063
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000a7.query changed
+	cksum expected 1796473496 found 1672814063
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000aa.query changed
+	cksum expected 4167363544 found 114648219
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000ab.query changed
+	cksum expected 4167363544 found 114648219
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000ae.query changed
+	cksum expected 33366384 found 732889490
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000af.query changed
+	cksum expected 33366384 found 732889490
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000b5.query changed
+	cksum expected 1665220747 found 328827333
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000b6.query changed
+	cksum expected 1665220747 found 328827333
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000ba.query changed
+	cksum expected 2408315038 found 185562417
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000bb.query changed
+	cksum expected 2408315038 found 185562417
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000be.query changed
+	cksum expected 2521914085 found 4112838036
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000bf.query changed
+	cksum expected 2521914085 found 4112838036
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000c2.query changed
+	cksum expected 1380846846 found 4073175621
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000c3.query changed
+	cksum expected 1380846846 found 4073175621
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000c6.query changed
+	cksum expected 454863713 found 2711364122
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000c7.query changed
+	cksum expected 454863713 found 2711364122
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000d2.query changed
+	cksum expected 1922543846 found 2434646167
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000d3.query changed
+	cksum expected 1922543846 found 2434646167
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000da.query changed
+	cksum expected 3376025493 found 2826503811
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000db.query changed
+	cksum expected 3376025493 found 2826503811
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000de.query changed
+	cksum expected 2225162814 found 827589441
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000df.query changed
+	cksum expected 2225162814 found 827589441
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000e2.query changed
+	cksum expected 2792679967 found 3544515656
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000e3.query changed
+	cksum expected 2792679967 found 3544515656
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000e4.query changed
+	cksum expected 543721549 found 1136244332
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000e6.query changed
+	cksum expected 1215185768 found 3388360872
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000e7.query changed
+	cksum expected 1215185768 found 3388360872
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000fa.query changed
+	cksum expected 872016463 found 1444906770
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000fb.query changed
+	cksum expected 872016463 found 1444906770
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000fe.query changed
+	cksum expected 3135857076 found 2872198307
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000000ff.query changed
+	cksum expected 3135857076 found 2872198307
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000102.query changed
+	cksum expected 2940305429 found 2855531568
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000103.query changed
+	cksum expected 2940305429 found 2855531568
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000010a.query changed
+	cksum expected 2778227733 found 2126905182
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000010b.query changed
+	cksum expected 2778227733 found 2126905182
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000010e.query changed
+	cksum expected 1021909061 found 1871358923
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000010f.query changed
+	cksum expected 1021909061 found 1871358923
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000112.query changed
+	cksum expected 4025932505 found 2882538459
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000113.query changed
+	cksum expected 4025932505 found 2882538459
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000119.query changed
+	cksum expected 2975786996 found 2666092750
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000011a.query changed
+	cksum expected 3584856912 found 292647024
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000122.query changed
+	cksum expected 464758129 found 2336218075
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000123.query changed
+	cksum expected 464758129 found 2336218075
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000142.query changed
+	cksum expected 3178288835 found 737486221
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000143.query changed
+	cksum expected 3178288835 found 737486221
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000162.query changed
+	cksum expected 707459590 found 1981102137
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000163.query changed
+	cksum expected 707459590 found 1981102137
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000167.query changed
+	cksum expected 66997001 found 1372952380
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000168.query changed
+	cksum expected 1728537810 found 3097886389
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000169.query changed
+	cksum expected 562190578 found 1480805016
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000016a.query changed
+	cksum expected 562190578 found 1480805016
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000016c.query changed
+	cksum expected 3515789752 found 3538555932
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000016e.query changed
+	cksum expected 2802222965 found 2577052455
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000016f.query changed
+	cksum expected 2802222965 found 2577052455
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000170.query changed
+	cksum expected 710579600 found 2397597396
+WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000172.query.new extra
+WINDOWS/pchealth/helpctr/OfflineCache/index.dat changed
+	size expected 86327 found 691
+	cksum expected 2618913852 found 2972191594
+WINDOWS/pchealth/helpctr/PackageStore/CRC_Disk changed
+	cksum expected 1471993935 found 1017309918
+WINDOWS/pchealth/helpctr/PackageStore/SkuStore.bin changed
+	size expected 2112 found 2426
+	cksum expected 1923890154 found 174151324
+WINDOWS/pchealth/helpctr/PackageStore/package_5.cab extra
+WINDOWS/pchealth/helpctr/System/Remote Assistance/Interaction/Common/attentioninteraction.gif extra
+WINDOWS/setupapi.log changed
+	size expected 378556 found 381935
+	cksum expected 1802301034 found 1687565454
+WINDOWS/system32/CatRoot2/edb.chk changed
+	cksum expected 688172928 found 2577011615
+WINDOWS/system32/CatRoot2/edb.log changed
+	cksum expected 3804432623 found 420427573
+WINDOWS/system32/CatRoot2/tmp.edb extra
+WINDOWS/system32/CatRoot2/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/catdb changed
+	cksum expected 2337715350 found 3128928056
+WINDOWS/system32/config/AppEvent.Evt changed
+	cksum expected 3464293806 found 104463311
+WINDOWS/system32/config/SAM changed
+	cksum expected 3128218132 found 204666622
+WINDOWS/system32/config/SAM.LOG changed
+	cksum expected 1298489646 found 739658123
+WINDOWS/system32/config/SECURITY changed
+	cksum expected 264759557 found 2337176384
+WINDOWS/system32/config/SECURITY.LOG changed
+	cksum expected 2176837903 found 1318777676
+WINDOWS/system32/config/SysEvent.Evt changed
+	cksum expected 754940284 found 1510741540
+WINDOWS/system32/config/default changed
+	cksum expected 4094264599 found 3577456272
+WINDOWS/system32/config/default.LOG changed
+	cksum expected 3792014408 found 2548683785
+WINDOWS/system32/config/software changed
+	cksum expected 2232171133 found 1002212334
+WINDOWS/system32/config/software.LOG changed
+	cksum expected 1554116687 found 1160006113
+WINDOWS/system32/config/system changed
+	cksum expected 2622131517 found 88283212
+WINDOWS/system32/config/system.LOG changed
+	cksum expected 2227770977 found 2549890437
+WINDOWS/system32/config/systemprofile/Application Data/Microsoft/CryptnetUrlCache extra
+WINDOWS/system32/wbem/Logs/wbemess.log changed
+	size expected 2937 found 4347
+	cksum expected 431882804 found 2912391989
+WINDOWS/system32/wbem/Logs/wmiprov.log changed
+	size expected 1948 found 2149
+	cksum expected 2066651660 found 1385312252
+WINDOWS/system32/wbem/Repository/FS/INDEX.BTR changed
+	cksum expected 1242365488 found 1531333369
+WINDOWS/system32/wbem/Repository/FS/INDEX.MAP changed
+	cksum expected 1614195814 found 2722418119
+WINDOWS/system32/wbem/Repository/FS/MAPPING1.MAP changed
+	cksum expected 273522975 found 1157729470
+WINDOWS/system32/wbem/Repository/FS/MAPPING2.MAP changed
+	cksum expected 273522975 found 1203638591
+WINDOWS/system32/wbem/Repository/FS/OBJECTS.DATA changed
+	cksum expected 3632845881 found 4048805011
+WINDOWS/system32/wbem/Repository/FS/OBJECTS.MAP changed
+	cksum expected 702745177 found 3796208205
+WINDOWS/system32/wpa.dbl changed
+	cksum expected 3793434263 found 2892643547
+pagefile.sys changed
+	cksum expected 3243232078 found 1723402836
+startu.bat extra
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000001.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000002.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000003.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000004.cat missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000005.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000006.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000007.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000008.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000009.INI missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000010.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000011.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000012.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000013.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000014.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000015.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000016.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000017.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000018.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000019.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000020.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000021.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000022.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000023.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000024.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000025.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000026.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000027.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000028.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000029.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000030.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000031.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000032.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000033.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000034.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000035.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000036.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000037.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000038.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000039.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000040.cpl missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000041.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000042.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000043.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000044.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000045.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000046.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000047.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000048.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000049.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000050.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000051.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000052.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000053.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000054.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000055.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000056.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000057.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000058.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000059.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000060.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000061.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000062.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000063.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000064.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000065.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000066.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000067.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000068.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000069.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000070.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000071.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000072.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000073.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000074.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000075.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000076.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000077.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000078.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000079.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000080.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000081.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000082.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000083.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000084.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000085.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000086.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000087.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000088.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000089.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000090.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000091.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000092.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000093.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000094.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000095.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000096.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000097.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000098.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000099.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000100.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000101.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000102.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000103.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000104.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000105.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000106.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000107.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000108.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000109.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000110.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000111.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000112.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000113.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000114.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000115.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000116.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000117.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000118.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000119.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000120.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000121.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000122.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000123.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000124.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000125.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000126.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000127.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000128.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000129.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000130.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000131.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000132.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000133.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000134.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000135.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000136.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000137.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000138.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000139.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000140.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000141.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000142.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000143.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000144.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000145.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000146.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000147.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000148.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000149.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000150.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000151.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000152.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000153.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000154.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000155.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000156.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000157.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000158.SYS missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000159.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000160.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000161.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000162.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000163.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000164.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000165.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000166.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000167.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000168.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000169.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000170.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000171.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000172.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000173.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000174.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000175.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000176.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000177.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000178.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000179.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000180.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000181.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000182.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000183.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000184.ax missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000185.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000186.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000187.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000188.drv missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000189.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000190.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000191.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000192.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000193.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000194.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000195.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000196.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000197.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000198.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000199.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000200.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000201.ax missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000202.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000203.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000204.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000205.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000206.drv missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000207.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000208.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000209.ax missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000210.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000211.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000212.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000213.drv missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000214.cat missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000215.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000216.DLL missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000217.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000218.ax missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000219.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000220.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000221.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000222.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000223.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000224.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000225.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000226.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000227.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000228.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000229.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000230.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000231.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000232.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000233.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000234.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000235.SYS missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000236.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000237.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000238.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000239.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000240.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000241.ax missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000242.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000243.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000244.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000245.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000246.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000247.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000248.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000249.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000250.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000251.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000252.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000253.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000254.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000255.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000256.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000257.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000258.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000259.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000260.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000261.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000262.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000263.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000264.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000265.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000266.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000267.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000268.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000269.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000270.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000271.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000272.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000273.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000274.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000275.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000276.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000277.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000278.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000279.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000280.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000281.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000282.cpl missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000283.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000284.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000285.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000286.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000287.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000288.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000289.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000290.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000291.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000292.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000293.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000294.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000295.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000296.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000297.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000298.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000299.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000300.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000301.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000302.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000303.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000304.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000305.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000306.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000307.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000308.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000309.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000310.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000311.drv missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000312.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000313.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000314.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000315.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000316.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000317.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000318.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000319.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000320.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000321.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000322.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000323.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000324.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000325.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000326.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000327.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000328.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000329.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000330.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000331.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000332.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000333.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000334.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000335.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000336.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000337.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000338.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000339.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000340.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000341.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000342.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000343.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000344.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000345.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000346.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000347.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000348.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000349.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000350.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000351.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000352.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000353.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000354.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000355.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000356.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000357.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000358.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000359.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000360.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000361.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000362.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000363.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000364.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000365.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000366.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000367.hlp missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000368.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000369.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000370.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000371.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000372.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000373.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000374.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000375.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000376.cat missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000377.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000378.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000379.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000380.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000381.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000382.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000383.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000384.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000385.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000386.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000387.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000388.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000389.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000390.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000391.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000392.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000393.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000394.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000395.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000396.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000397.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000398.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000399.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000400.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000401.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000402.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000403.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000404.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000405.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000406.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000407.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000408.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000409.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000410.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000411.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000412.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000413.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000414.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000415.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000416.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000417.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000418.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000419.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000420.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000421.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000422.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000423.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000424.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000425.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000426.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000427.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000428.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000429.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000430.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/A0000431.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/RestorePointSize missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/change.log.1 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/change.log.2 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/change.log.3 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/change.log.4 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/change.log.5 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/change.log.6 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/change.log.7 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/change.log.8 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/change.log.9 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/drivetable.txt missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/rp.log missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-2025429265-117609710-682003330-1003 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-2025429265-117609710-682003330-1003 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/domain.txt missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository/FS missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP1/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000432.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000433.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000434.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000435.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000436.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000437.lnk missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000438.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000439.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000440.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000441.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000442.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000443.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000444.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000445.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000446.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000447.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000448.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000449.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000450.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000451.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000452.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000453.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000454.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000455.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000456.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000457.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000458.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000459.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000460.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000461.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000462.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000463.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000464.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000465.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000466.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000467.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000468.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000469.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000470.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000471.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000472.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000473.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000474.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000475.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000476.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000477.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000478.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000479.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000480.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000481.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000482.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000483.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000484.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000485.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000486.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000487.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000488.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000489.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000490.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000491.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000492.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000493.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000494.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000495.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000496.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000497.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000498.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000499.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000500.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000501.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000502.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000503.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000504.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000505.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000506.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000507.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000508.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000509.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000510.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000511.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000512.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000513.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000514.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000515.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000516.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000517.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000518.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000519.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/A0000520.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/RestorePointSize missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.1 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.10 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.11 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.2 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.3 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.4 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.5 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.6 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.7 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.8 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/change.log.9 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/drivetable.txt missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/rp.log missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-2025429265-117609710-682003330-1003 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-2025429265-117609710-682003330-1003 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/domain.txt missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository/FS missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP2/snapshot/Repository/FS/OBJECTS.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000521.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000522.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000523.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000524.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000525.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000526.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000527.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000528.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000529.lnk missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000530.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000531.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000532.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000533.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000534.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000535.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000536.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000537.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000538.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000539.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000540.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000541.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000542.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000543.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000544.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000545.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000546.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000547.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000548.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000549.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000550.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000551.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000552.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000553.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000554.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000555.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000556.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000557.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000558.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000559.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000560.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000561.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000562.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000563.scr missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000564.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000565.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000566.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000567.manifest missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000568.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000569.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000570.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000571.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000572.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000573.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000574.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000575.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000576.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000577.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000578.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000579.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000580.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000581.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000582.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000583.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000584.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000585.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000586.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000587.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000588.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000589.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000590.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000591.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000592.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000593.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000594.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000595.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000596.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000597.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000598.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000599.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000600.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000601.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000602.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000603.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000604.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000605.properties missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000606.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000607.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000608.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000609.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000610.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000611.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000612.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000613.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000614.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000615.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000616.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000617.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000618.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000619.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000620.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000621.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000622.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000623.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000624.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000625.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000626.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000627.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000628.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000629.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000630.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000631.sys missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000632.ver missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000633.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000634.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000635.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000636.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000637.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000638.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000639.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000640.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000641.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000642.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000643.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000644.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000645.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000646.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000647.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000648.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000649.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000650.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000651.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000652.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000653.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000654.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000655.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000656.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000657.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000658.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000659.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000660.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000661.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000662.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000663.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000664.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000665.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000666.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000667.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000668.vpx missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000669.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000670.lnk missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000671.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000672.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000673.exe missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000674.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000675.dll missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000676.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000677.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000678.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000679.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000680.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000681.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000682.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000683.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000684.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000685.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000686.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000687.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000688.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000689.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000690.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000691.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000692.lnk missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000693.bat missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000694.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000695.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000696.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000697.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000698.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000699.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000700.inf missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000701.PNF missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000702.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000703.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000704.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000705.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000706.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000707.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000708.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000709.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000710.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000711.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000712.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000713.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000714.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000715.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000716.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000717.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/A0000718.ini missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/RestorePointSize missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/change.log missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/change.log.1 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/change.log.2 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/change.log.3 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/change.log.4 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/change.log.5 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/change.log.6 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/change.log.7 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/change.log.8 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/rp.log missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/ComDb.Dat missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_MACHINE_SAM missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_MACHINE_SECURITY missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_MACHINE_SOFTWARE missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_MACHINE_SYSTEM missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_USER_.DEFAULT missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_USER_NTUSER_S-1-5-18 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_USER_NTUSER_S-1-5-19 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_USER_NTUSER_S-1-5-20 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_USER_NTUSER_S-1-5-21-2025429265-117609710-682003330-1003 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-19 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-20 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/_REGISTRY_USER_USRCLASS_S-1-5-21-2025429265-117609710-682003330-1003 missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/domain.txt missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository/$WinMgmt.CFG missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository/FS missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository/FS/INDEX.BTR missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository/FS/INDEX.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository/FS/MAPPING.VER missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository/FS/MAPPING1.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository/FS/MAPPING2.MAP missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository/FS/OBJECTS.DATA missing
+./System Volume Information/_restore{5DC8AF88-BF07-49D6-BC35-1237316F120C}/RP3/snapshot/Repository/FS/OBJECTS.MAP missing
+./WINDOWS/pchealth/helpctr/BATCH/hscsp_w3.cab missing
+./WINDOWS/pchealth/helpctr/Config/Cache/Professional_32_1049.dat.bak missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000172.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000173.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000174.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000176.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000177.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000178.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000017a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000017b.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000017c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000017d.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000017e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000180.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000182.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000183.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000184.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000186.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000187.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000188.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000018a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000018b.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000018c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000018e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000018f.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000190.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000192.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000193.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000194.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000196.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000197.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000198.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000199.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000019a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000019c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000019e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000019f.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001a0.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001a2.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001a3.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001a4.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001a6.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001a7.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001a8.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001aa.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ab.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ac.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ad.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ae.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001af.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001b0.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001b2.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001b3.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001b4.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001b6.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001b7.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001b8.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ba.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001bb.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001bc.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001be.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001bf.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001c0.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001c1.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001c2.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001c4.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001c5.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001c6.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001c7.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001c8.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ca.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001cb.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001cc.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ce.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001cf.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001d0.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001d2.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001d3.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001d4.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001d6.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001d7.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001d8.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001d9.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001da.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001dc.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001de.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001df.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001e0.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001e2.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001e3.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001e4.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001e6.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001e7.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001e8.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ea.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001eb.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ec.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ee.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ef.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001f0.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001f2.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001f3.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001f4.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001f6.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001f7.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001f8.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001fa.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001fb.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001fc.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001fe.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000001ff.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000200.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000202.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000203.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000204.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000206.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000207.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000208.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000020c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000020d.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000020e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000210.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000211.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000212.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000213.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000214.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000216.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000217.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000218.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000021a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000021b.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000021c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000220.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000222.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000223.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000224.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000225.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000226.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000228.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000229.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000022a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000022c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000022d.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000022e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000230.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000231.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000232.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000234.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000236.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000237.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000238.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000239.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000023a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000023b.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000023c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000023d.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000023e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000240.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000241.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000242.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000244.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000246.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000247.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000248.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000249.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000024a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000024c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000024d.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000024e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000250.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000251.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000252.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000254.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000256.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000257.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000258.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000025a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000025b.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000025c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000025e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000025f.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000260.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000262.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000263.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000264.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000265.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000266.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000268.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000026a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000026b.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000026c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000026e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000026f.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000270.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000272.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000273.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000274.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000275.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000276.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000278.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000279.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000027a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000027c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000027e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000027f.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000280.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000282.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000283.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000284.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000286.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000287.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000288.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000028a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000028b.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000028c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000028d.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000028e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000290.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000292.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000293.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000294.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000295.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000296.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000298.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/00000299.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000029a.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000029c.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000029d.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/0000029e.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002a0.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002a2.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002a3.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002a4.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002a6.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002a7.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002a8.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002a9.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002aa.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002ac.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002ae.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002af.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002b0.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002b2.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002b3.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002b4.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002b6.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002b7.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002b8.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002ba.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002bb.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002bc.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002bd.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002be.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002bf.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002c0.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002c2.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002c3.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002c4.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002c6.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002c7.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002c8.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002ca.query missing
+./WINDOWS/pchealth/helpctr/OfflineCache/Professional_32#0419/000002cb.query missing
+./WINDOWS/pchealth/helpctr/System/DFS/privacy.htm missing
+./WINDOWS/pchealth/helpctr/System/DFS/uplddrvinfo.htm missing
+./WINDOWS/pchealth/helpctr/System/DFS/viewmode.xml missing
+./WINDOWS/pchealth/helpctr/System/DFS/xmldialog.htm missing
+./WINDOWS/pchealth/helpctr/System/DFS/xmldisplay.xsl missing
