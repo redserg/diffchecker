@@ -1,5 +1,6 @@
 
 package Filter;
+use String::Approx 'amatch';
 sub universal_regexp_filter_i{
 	my ($db , $winpath_cond , $state_cond , $type_cond) = @_;
 	print "\tuniversal_regexp_filter_i(,$winpath_cond,$state_cond,$type_cond)\n";
@@ -60,6 +61,25 @@ sub universal_system_file_path_filter{
 	}
 	return 0;
 }
+
+sub fuzzy_system_file_filter{
+	my ( $db , $sfp) = @_;
+	print "\tfuzzy_system_file_filteri\n";
+	while (my ($winpath , $href) = each %$db){
+		my ($name, $ext) =  get_name_extension($winpath);
+  		my @matches =  amatch("$name"."."."$ext" ,[        # this array sets match options:
+                                  "i",    # match case-insensitively
+                                  "10%",  # tolerate up to 1 character in 10 being wrong
+                                  "S0",   # but no substituting one character for another
+                                  "D1",   # although, tolerate up to one deletion
+                                  "I2"    # and tolerate up to two insertions
+                                 ], keys %$sfp);
+		print "$winpath looks like:@matches\n\n" if(@matches);
+	}
+	
+}
+
+
 sub extract_suspicious_path{
 	my ($sp , $conf) = @_;
 	open my $rf, "<" , "$conf" or return -1;
