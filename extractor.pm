@@ -14,10 +14,11 @@ sub extract{
 	}
 	close $rf;
 
+	my $count = 0;
 	for(keys %$db){
-		&read_file_inf($diffsdir,$db,$_);
+		$count += &read_file_inf($diffsdir,$db,$_);
 	}
-	return 0;
+	return $count;
 }
 		
 sub read_file_inf{
@@ -25,6 +26,7 @@ sub read_file_inf{
 	my $size;
 	my $type;
 	my $file="$diffsdir/$db->{$winpath}->{'path'}";
+	my $count = 1;
 	if(-f $file){
 		$size = -s $file;
 		$type = `file -b '$file'`;
@@ -43,7 +45,8 @@ sub read_file_inf{
 			my $new_winpath = "$winpath/$name";
 			$db->{$new_winpath}->{'path'} = "$db->{$winpath}->{'path'}/$name";
 			$db->{$new_winpath}->{'state'} = $db->{$winpath}->{'state'};
-			&read_file_inf($diffsdir, $db , $new_winpath); 	
+			$count += &read_file_inf($diffsdir, $db , $new_winpath); 	
+
 		}
 	}
 	else{
@@ -51,6 +54,6 @@ sub read_file_inf{
 		delete $db->{$winpath};
 		warn "extractor:$file does not exist\n";
 	}
-	return 0;
+	return $count;
 }
 1;

@@ -22,12 +22,12 @@ sub extract_system_file_path{
 	my ($sfp , $conf) = @_;
 	open my $rf, "<" , "$conf" or return -1;
 	while(<$rf>){
-		if(m/^'(.+?)'\s'(.+?)'$/){
+		if(m/^'(.+?)'\s*'(.+?)'$/){
 			my ($file , $path) = ($1 , $2);
 			push  @{$sfp->{$file}}, $path;######mb tolower?//
 		}
 		else{
-			warn "extract_system_file_path:$conf:bad string in system file conf:$_";
+			warn "extract_system_file_path:$conf:bad string:$_";
 		}
 	}
 	close $rf;
@@ -36,6 +36,7 @@ sub extract_system_file_path{
 	
 sub universal_system_file_path_filter{
 	my ( $db , $sfp) = @_;
+	my $count = 0;
 	print "\tuniversal_system_file_path\n";
 	while ( my ($winpath, $href) = each %$db){
 		while ( my ($file , $aref) = each %$sfp){
@@ -49,9 +50,11 @@ sub universal_system_file_path_filter{
 				}
 				if($flag){
 					print "wrong path:\t$winpath:$href->{'state'}:$href->{'type'}\n";	
+					$count++;
 				}
 				elsif($href->{'state'} =~ m/c/i){
 					print "system file changed:\t$winpath:$href->{'state'}:$href->{'type'}\n";
+					$count++;
 					
 				}
 			
@@ -59,11 +62,12 @@ sub universal_system_file_path_filter{
 		}
 	
 	}
-	return 0;
+	return $count;
 }
 
 sub fuzzy_system_file_filter{
 	my ( $db , $sfp) = @_;
+	my $count = 0;
 	print "\tfuzzy_system_file_filteri\n";
 	while (my ($winpath , $href) = each %$db){
 		my ($name, $ext) =  get_name_extension($winpath);
@@ -74,8 +78,12 @@ sub fuzzy_system_file_filter{
                                   "D1",   # although, tolerate up to one deletion
                                   "I2"    # and tolerate up to two insertions
                                  ], keys %$sfp);
-		print "$winpath looks like:@matches\n\n" if(@matches);
+		if(@matches){
+			print "$winpath looks like:@matches\n\n";
+			$count++;
+		}
 	}
+	return $count;
 	
 }
 
@@ -99,18 +107,20 @@ sub extract_suspicious_path{
 
 sub universal_suspicious_path_filter{
 	my ( $db , $sp, $type) = @_;
+	my $count = 0;
 	print "\tsuspicious_path_filter\n";
 	while ( my ($winpath, $href) = each %$db){
 		if($href->{'type'} =~ m/executable/i){
 			for my $path ( keys %$sp){
 				if ($winpath =~ m/($path)/i){
 					print "$winpath:$href->{'state'}:$href->{'type'}\n";
+					$count++;
 				}
 			}
 		}
 	
 	}
-	return 0;
+	return $count;
 
 }
 sub get_name_extension{#dont work without /
@@ -128,6 +138,7 @@ sub get_name_extension{#dont work without /
 }
 sub double_extension_filter{
 	my ($db ) = @_;
+	my $count = 0;
 	print "\tdouble_extension_filter\n";
 	while ( my ($winpath, $href) = each %$db){
 		#if($href->{'type'} =~ m/executable/i){# make susp types list for this
@@ -136,6 +147,7 @@ sub double_extension_filter{
 				my ($name1,$ext1) = get_name_extension($name);
 				if($ext1){
 					print "executable double extension:$ext1.$ext:$winpath\n";
+					$count++;
 				}
 			}
 		#}
@@ -148,6 +160,7 @@ sub double_extension_filter{
 		#	print "no e:$winpath\n";	
 		#}
 	}
+	return $count;
 }
 sub extract_extension_list{
 	my ($el, $list_file) = @_;
@@ -166,6 +179,7 @@ sub extract_extension_list{
 }
 sub extension_list_filter{
 	my ($db, $el) = @_;
+	my $count = 0;
 	print "\textension_list_filter\n";
 	while ( my ($winpath, $href) = each %$db){
 		my ($name,$ext) = get_name_extension($winpath);
@@ -173,10 +187,12 @@ sub extension_list_filter{
 			if($href->{'type'} =~ m/($_)/i){
 				unless(defined($el->{$_}->{lc $ext})){
 					print "$winpath:$href->{'state'}:$href->{'type'}\n";	
+					$count++;
 				}
 			}
 		}
 	}
+	return $count;
 
 }
 #sub path_list_filter{
